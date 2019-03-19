@@ -1,0 +1,185 @@
+Commands I use in ARD/SSH.  Ask for logins and serials.  Some of these have been replaced with configuration profiles
+
+Get Airport Power
+networksetup -getairportpower en1
+
+Turn Airport Off
+networksetup -setairportpower en1 off
+
+rm keychains
+rm -rf /System/Library/User\ Template/English.lproj/Library/Keychains
+
+cmd q
+osascript -e 'tell application "System Events"' -e 'keystroke "q" using command down' -e 'end tell'
+
+Login Admin
+osascript -e 'tell application "System Events"' -e 'keystroke "administrator"' -e 'keystroke tab' -e 'keystroke "passwordhere"' -e 'keystroke return' -e 'end tell'
+
+Open NI Service Center:
+open /Applications/Native\ Instruments/Service\ Center/ServiceCenter.app
+
+Login Guest
+osascript -e 'tell application "System Events" to keystroke "Guest"'; \
+
+osascript -e 'tell application "System Events" to keystroke return'
+
+rm Template Library 
+rm -rf /System/Library/User\ Template/English.lproj/Library
+
+Bake
+cp -rf /Users/Guest/Library /System/Library/User\ Template/English.lproj/
+
+Enter
+osascript -e 'tell application "System Events"' -e 'keystroke return' -e 'end tell'
+
+ESC
+osascript -e 'tell application "System Events" to key code 53'
+
+Auth FabFilter
+osascript -e 'tell application "System Events" to keystroke "
+
+-- COPY LICENSE KEY FROM HERE --
+Product: One, Simplon, Pro-C, Volcano 2, Twin 2, Timeless 2, 
+   Pro-Q, Micro, Pro-L, Pro-G, Saturn, Pro-DS, Pro-MB, Pro-Q 2;
+Licensee:paste licence
+-- COPY UNTIL AND INCLUDING THIS --
+"'; \
+
+Auth Recycle
+osascript -e 'tell application "System Events"' -e 'keystroke "pyramind"' -e 'keystroke tab' -e 'keystroke "pyramind"' -e 'keystroke tab' -e 'keystroke "serial-here"' -e 'keystroke return' -e 'end tell'
+
+ManagedInstallsClientID
+defaults write /Library/Preferences/ManagedInstalls ClientIdentifier "basic_manifest"
+
+ManagedInstalls Repo
+defaults write /Library/Preferences/ManagedInstalls SoftwareRepoURL "http://leela.local/munki_repo"
+
+ManagedInstalls Supress 
+defaults write /Library/Preferences/ManagedInstalls SuppressUserNotification "true"
+
+Login NI
+osascript -e 'tell application "System Events"' -e 'keystroke "user"' -e 'keystroke tab' -e 'keystroke "pass"' -e 'keystroke return' -e 'end tell'
+
+Restart ARD Agent
+ /System/Library/CoreServices/RemoteManagement/ARDAgent.app/Contents/Resources/kickstart -restart -agent
+ 
+Auth Serum
+osascript -e 'tell application "System Events"' -e 'keystroke "Serial-here"' -e 'keystroke return' -e 'end tell'
+
+ManagedInstalls Installs Only
+/usr/local/munki/managedsoftwareupdate --installonly
+
+ManagedInstalls Check Only
+/usr/local/munki/managedsoftwareupdate --checkonly
+
+Set NI Install Dir
+defaults write /Library/Preferences/com.native-instruments.Absynth\ 5.plist InstallDir -string 'Macintosh HD:Applications:Native Instruments:Absynth 5'
+defaults write /Library/Preferences/com.native-instruments.Battery\ 4.plist InstallDir -string 'Macintosh HD:Applications:Native Instruments:Battery 4'
+defaults write /Library/Preferences/com.native-instruments.FM8.plist InstallDir -string 'Macintosh HD:Applications:Native Instruments:FM8'
+defaults write /Library/Preferences/com.native-instruments.Guitar\ Rig\ 5.plist InstallDir -string 'Macintosh HD:Applications:Native Instruments:Guitar Rig 5'
+defaults write /Library/Preferences/com.native-instruments.Kontakt\ 5 InstallDir -string 'Macintosh HD:Applications:Native Instruments:Kontakt 5'
+defaults write /Library/Preferences/com.native-instruments.Massive.plist InstallDir -string 'Macintosh HD:Applications:Native Instruments:Massive'
+
+ManageSofware Read Prefs
+defaults read /Library/Preferences/ManagedInstalls
+
+Set Battery Library
+defaults write /Library/Preferences/com.native-instruments.Battery\ 4\ Factory\ Library.plist ContentDir -string 'Macintosh HD:Users:Shared:Battery 4 Factory Library'
+
+List AAX Plugins
+plutil -p /Library/Application\ Support/Avid/Audio/Plug-Ins/**/Contents/Info.plist | grep -e CFBundleName -e CFBundleShortVersionString | awk '{print $3, $4, $5, $6, $7}' | sed -e 's/"//g'
+
+List AU Plugins
+plutil -p /Library/Audio/Plug-Ins/Components/**/Contents/Info.plist | grep -e CFBundleName -e CFBundleShortVersionString | awk '{print $3, $4, $5, $6, $7}' | sed -e 's/"//g'
+
+List VST Plugins
+plutil -p /Library/Audio/Plug-Ins/VST/**/Contents/Info.plist | grep -e CFBundleName -e CFBundleShortVersionString | awk '{print $3, $4, $5, $6, $7}' | sed -e 's/"//g'
+
+
+Read ManagedSoftwareUpdate Log
+cat /Library/Managed\ Installs/Logs/ManagedSoftwareUpdate.log
+
+Disable Parentals
+dscl . -mcxdelete Users/Guest
+
+List USB Devices
+ioreg -p IOUSB | awk -F'@' '{print $1}' | sed -e 's/|//g;s/+-o//g;s/^ *//g'
+
+Restore FROM Leela
+#!/bin/bash
+
+SN=`ioreg -c IOPlatformExpertDevice -d 2 | awk -F\" '/IOPlatformSerialNumber/{print $(NF-1)}'`
+
+mkdir /Volumes/src
+mount_afp "afp://user:pass@leela.local/DSRepo/Files/" /Volumes/src
+
+rm -rf /Volumes/Macintosh\ HD/System/Library/User\ Template/English.lproj/Library
+
+cp -rf /Volumes/src/$SN/ /Volumes/Macintosh\ HD/System/Library/User\ Template/English.lproj/Library/ 
+
+umount /Volumes/src
+
+exit 0
+
+SAVE TO Leela
+#!/bin/bash
+
+SN=`ioreg -c IOPlatformExpertDevice -d 2 | awk -F\" '/IOPlatformSerialNumber/{print $(NF-1)}'`
+
+mkdir /Volumes/src
+mount_afp "afp://user:pass@leela.local/DSRepo/Files/" /Volumes/src
+mkdir /Volumes/src/$SN
+
+chmod 777 /Volumes/Macintosh\ HD/System/Library/User\ Template/English.lproj/Library
+rm -rf /Volumes/Macintosh\ HD/System/Library/User\ Template/English.lproj/Library/Keychains
+cp -rf /Volumes/Macintosh\ HD/System/Library/User\ Template/English.lproj/Library/ /Volumes/src/$SN 
+
+
+umount /Volumes/src
+
+exit 0 
+
+Clear Template Desktop
+rm -rf /System/Library/User\ Template/English.lproj/Desktop/*
+
+Disable Guest
+sudo defaults write /Library/Preferences/com.apple.loginwindow GuestEnabled -bool NO
+
+Disable Avid App Manager Load
+rm /Library/LaunchAgents/com.avid.ApplicationManager.plist /Library/LaunchAgents/com.avid.ApplicationManagerHelper.plist
+
+Forget FF Auths
+pkgutil --forget com.mygreatcompany.pkg.FFAuths
+
+Rm Ableton Stuff from Template
+rm -rf /System/Library/User\ Template/English.lproj/Library/Application\ Support/Ableton
+rm -rf /System/Library/User\ Template/English.lproj/Library/Preferences/Ableton
+
+Rm Ableton Unlock
+mv /Users/Guest/Library/Application\ Support/Ableton/ /Library/Application\ Support/
+
+Rm Ableton Global App Support
+rm -rf /Library/Application\ Support/Ableton/
+
+Download Apple Loops All Mute
+/usr/local/bin/appleLoops.py --deployment --pkg-server munki -m -o --mute-progress-bar
+
+Uninstall Meraki agent
+launchctl unload /Library/LaunchDaemons/com.meraki.agentd.plist
+rm -f /usr/local/sbin/m_agent /usr/local/sbin/m_agent_upgrade
+rm -rf '/Library/Application Support/Meraki/'
+rm -f /Library/LaunchDaemons/com.meraki.agentd.plist
+
+
+
+
+
+
+
+
+
+
+
+
+
+
