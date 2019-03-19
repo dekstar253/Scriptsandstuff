@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.apple.audio.DeviceSettings</key>
+				<dict>
+					<key>Forced</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>10:DD:B1:E3:F8:EB-screen</key>
+								<dict>
+									<key>controls</key>
+									<array/>
+								</dict>
+								<key>AppleHDAEngineInput:1B,0,1,1:2</key>
+								<dict>
+									<key>controls</key>
+									<array>
+										<dict>
+											<key>element</key>
+											<integer>1</integer>
+											<key>page</key>
+											<integer>1818848869</integer>
+											<key>scope</key>
+											<integer>1768845428</integer>
+											<key>selector</key>
+											<integer>1987013741</integer>
+											<key>value</key>
+											<real>0.66666668653488159</real>
+										</dict>
+										<dict>
+											<key>element</key>
+											<integer>2</integer>
+											<key>page</key>
+											<integer>1818848869</integer>
+											<key>scope</key>
+											<integer>1768845428</integer>
+											<key>selector</key>
+											<integer>1987013741</integer>
+											<key>value</key>
+											<real>0.66666668653488159</real>
+										</dict>
+									</array>
+									<key>input streams</key>
+									<array>
+										<dict>
+											<key>bits per channel</key>
+											<integer>24</integer>
+											<key>bytes per frame</key>
+											<integer>8</integer>
+											<key>bytes per packet</key>
+											<integer>8</integer>
+											<key>channels per frame</key>
+											<integer>2</integer>
+											<key>format flags</key>
+											<integer>4</integer>
+											<key>format id</key>
+											<integer>1819304813</integer>
+											<key>frames per packet</key>
+											<integer>1</integer>
+											<key>sample rate</key>
+											<real>44100</real>
+										</dict>
+									</array>
+								</dict>
+								<key>AppleHDAEngineOutput:1B,0,1,2:0</key>
+								<dict>
+									<key>controls</key>
+									<array>
+										<dict>
+											<key>element</key>
+											<integer>1</integer>
+											<key>page</key>
+											<integer>1751412846</integer>
+											<key>scope</key>
+											<integer>1869968496</integer>
+											<key>selector</key>
+											<integer>1987013741</integer>
+											<key>value</key>
+											<real>1</real>
+										</dict>
+										<dict>
+											<key>element</key>
+											<integer>2</integer>
+											<key>page</key>
+											<integer>1751412846</integer>
+											<key>scope</key>
+											<integer>1869968496</integer>
+											<key>selector</key>
+											<integer>1987013741</integer>
+											<key>value</key>
+											<real>1</real>
+										</dict>
+										<dict>
+											<key>element</key>
+											<integer>0</integer>
+											<key>page</key>
+											<integer>1769173099</integer>
+											<key>scope</key>
+											<integer>1869968496</integer>
+											<key>selector</key>
+											<integer>1936945763</integer>
+											<key>value</key>
+											<integer>1769173099</integer>
+										</dict>
+										<dict>
+											<key>element</key>
+											<integer>0</integer>
+											<key>page</key>
+											<integer>1751412846</integer>
+											<key>scope</key>
+											<integer>1869968496</integer>
+											<key>selector</key>
+											<integer>1936945763</integer>
+											<key>value</key>
+											<integer>1751412846</integer>
+										</dict>
+										<dict>
+											<key>element</key>
+											<integer>0</integer>
+											<key>page</key>
+											<integer>1751412846</integer>
+											<key>scope</key>
+											<integer>1869968496</integer>
+											<key>selector</key>
+											<integer>1836414053</integer>
+											<key>value</key>
+											<integer>0</integer>
+										</dict>
+										<dict>
+											<key>element</key>
+											<integer>1</integer>
+											<key>page</key>
+											<integer>1751412846</integer>
+											<key>scope</key>
+											<integer>1869968496</integer>
+											<key>selector</key>
+											<integer>1836414053</integer>
+											<key>value</key>
+											<integer>0</integer>
+										</dict>
+										<dict>
+											<key>element</key>
+											<integer>2</integer>
+											<key>page</key>
+											<integer>1751412846</integer>
+											<key>scope</key>
+											<integer>1869968496</integer>
+											<key>selector</key>
+											<integer>1836414053</integer>
+											<key>value</key>
+											<integer>0</integer>
+										</dict>
+									</array>
+									<key>output streams</key>
+									<array>
+										<dict>
+											<key>bits per channel</key>
+											<integer>24</integer>
+											<key>bytes per frame</key>
+											<integer>8</integer>
+											<key>bytes per packet</key>
+											<integer>8</integer>
+											<key>channels per frame</key>
+											<integer>2</integer>
+											<key>format flags</key>
+											<integer>4</integer>
+											<key>format id</key>
+											<integer>1819304813</integer>
+											<key>frames per packet</key>
+											<integer>1</integer>
+											<key>sample rate</key>
+											<real>44100</real>
+										</dict>
+									</array>
+								</dict>
+								<key>AppleHDAEngineOutputDP:1B,3,1,2:0:{635A-6B2F-01010101}</key>
+								<dict>
+									<key>controls</key>
+									<array/>
+									<key>output streams</key>
+									<array>
+										<dict>
+											<key>bits per channel</key>
+											<integer>24</integer>
+											<key>bytes per frame</key>
+											<integer>8</integer>
+											<key>bytes per packet</key>
+											<integer>8</integer>
+											<key>channels per frame</key>
+											<integer>2</integer>
+											<key>format flags</key>
+											<integer>4</integer>
+											<key>format id</key>
+											<integer>1819304813</integer>
+											<key>frames per packet</key>
+											<integer>1</integer>
+											<key>sample rate</key>
+											<real>48000</real>
+										</dict>
+									</array>
+								</dict>
+								<key>SonarworksEngine:0</key>
+								<dict>
+									<key>controls</key>
+									<array/>
+								</dict>
+								<key>version</key>
+								<integer>1</integer>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>MCXToProfile.52f38179-5ba6-4a53-b781-a610a40d7d89.alacarte.customsettings.d82f7b84-8849-488a-9805-bfb1331f97f5</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>d82f7b84-8849-488a-9805-bfb1331f97f5</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Included custom settings:
+com.apple.audio.DeviceSettings
+</string>
+	<key>PayloadDisplayName</key>
+	<string>MCXToProfile: com.apple.audio.DeviceSettings</string>
+	<key>PayloadIdentifier</key>
+	<string>audiodevicesettings</string>
+	<key>PayloadOrganization</key>
+	<string></string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>52f38179-5ba6-4a53-b781-a610a40d7d89</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

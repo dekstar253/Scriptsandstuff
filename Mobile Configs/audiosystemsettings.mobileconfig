@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.apple.audio.SystemSettings</key>
+				<dict>
+					<key>Forced</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>0</key>
+								<dict>
+									<key>current default input device</key>
+									<string>AppleHDAEngineInput:1B,0,1,1:2</string>
+									<key>current default output device</key>
+									<string>AppleHDAEngineOutput:1B,0,1,2:0</string>
+									<key>current default system output device</key>
+									<string>AppleHDAEngineOutput:1B,0,1,2:0</string>
+								</dict>
+								<key>201</key>
+								<dict>
+									<key>current default input device</key>
+									<string>AppleHDAEngineInput:1B,0,1,1:2</string>
+									<key>current default output device</key>
+									<string>AppleHDAEngineOutput:1B,0,1,2:0</string>
+									<key>current default system output device</key>
+									<string>AppleHDAEngineOutput:1B,0,1,2:0</string>
+									<key>primary default output device</key>
+									<string>AppleHDAEngineOutput:1B,0,1,2:0</string>
+									<key>primary default system output device</key>
+									<string>AppleHDAEngineOutput:1B,0,1,2:0</string>
+									<key>secondary default output device</key>
+									<string>AppleHDAEngineOutputDP:1B,3,1,2:0:{635A-6B2F-01010101}</string>
+									<key>secondary default system output device</key>
+									<string>AppleHDAEngineOutputDP:1B,3,1,2:0:{635A-6B2F-01010101}</string>
+								</dict>
+								<key>501</key>
+								<dict>
+									<key>current default output device</key>
+									<string>AppleHDAEngineOutput:1B,0,1,2:0</string>
+									<key>current default system output device</key>
+									<string>AppleHDAEngineOutput:1B,0,1,2:0</string>
+								</dict>
+								<key>502</key>
+								<dict/>
+								<key>92</key>
+								<dict>
+									<key>current default system output device</key>
+									<string>AppleHDAEngineOutput:1B,0,1,2:0</string>
+								</dict>
+								<key>MetaDevice.com.Avid.ProToolsAnalogIOAggregateDevice</key>
+								<dict>
+									<key>master</key>
+									<string>AppleHDAEngineInput:1B,0,1,1:2</string>
+									<key>name</key>
+									<string>Pro Tools Aggregate I/O</string>
+									<key>subdevices</key>
+									<array>
+										<dict>
+											<key>channels-in</key>
+											<integer>2</integer>
+											<key>channels-out</key>
+											<integer>0</integer>
+											<key>don't pad</key>
+											<integer>0</integer>
+											<key>drift</key>
+											<integer>0</integer>
+											<key>drift quality</key>
+											<integer>0</integer>
+											<key>latency-in</key>
+											<integer>0</integer>
+											<key>latency-out</key>
+											<integer>0</integer>
+											<key>name</key>
+											<string>Built-in Input</string>
+											<key>uid</key>
+											<string>AppleHDAEngineInput:1B,0,1,1:2</string>
+										</dict>
+										<dict>
+											<key>channels-in</key>
+											<integer>0</integer>
+											<key>channels-out</key>
+											<integer>2</integer>
+											<key>don't pad</key>
+											<integer>0</integer>
+											<key>drift</key>
+											<integer>0</integer>
+											<key>drift quality</key>
+											<integer>0</integer>
+											<key>latency-in</key>
+											<integer>0</integer>
+											<key>latency-out</key>
+											<integer>0</integer>
+											<key>name</key>
+											<string>Built-in Output</string>
+											<key>uid</key>
+											<string>AppleHDAEngineOutput:1B,0,1,2:0</string>
+										</dict>
+									</array>
+									<key>uid</key>
+									<string>com.Avid.ProToolsAnalogIOAggregateDevice</string>
+								</dict>
+								<key>MetaDevice.~:Aggregate:0</key>
+								<dict>
+									<key>name</key>
+									<string>Aggregate Device</string>
+									<key>subdevices</key>
+									<array>
+										<dict>
+											<key>channels-in</key>
+											<integer>0</integer>
+											<key>channels-out</key>
+											<integer>2</integer>
+											<key>drift</key>
+											<integer>1</integer>
+											<key>drift quality</key>
+											<integer>0</integer>
+											<key>latency-in</key>
+											<integer>0</integer>
+											<key>latency-out</key>
+											<integer>0</integer>
+											<key>name</key>
+											<string>R+</string>
+											<key>uid</key>
+											<string>14-09-30-21-14-2f:output</string>
+										</dict>
+										<dict>
+											<key>channels-in</key>
+											<integer>2</integer>
+											<key>channels-out</key>
+											<integer>0</integer>
+											<key>don't pad</key>
+											<integer>0</integer>
+											<key>drift</key>
+											<integer>0</integer>
+											<key>drift quality</key>
+											<integer>0</integer>
+											<key>latency-in</key>
+											<integer>0</integer>
+											<key>latency-out</key>
+											<integer>0</integer>
+											<key>name</key>
+											<string>Built-in Input</string>
+											<key>uid</key>
+											<string>AppleHDAEngineInput:1B,0,1,1:2</string>
+										</dict>
+									</array>
+									<key>uid</key>
+									<string>~:Aggregate:0</string>
+								</dict>
+								<key>Meta_UIDList</key>
+								<array>
+									<string>com.Avid.ProToolsAnalogIOAggregateDevice</string>
+									<string>~:Aggregate:0</string>
+								</array>
+								<key>Plug-In.com.apple.audio.AirTunesHALPlugin</key>
+								<dict>
+									<key>pairPIN</key>
+									<false/>
+								</dict>
+								<key>System_MixStereoToMono</key>
+								<integer>0</integer>
+								<key>device.10:DD:B1:E3:F8:EB-screen</key>
+								<dict/>
+								<key>device.AirPlay</key>
+								<dict>
+									<key>global.arrival</key>
+									<dict>
+										<key>seed</key>
+										<integer>0</integer>
+										<key>time</key>
+										<integer>0</integer>
+									</dict>
+								</dict>
+								<key>device.AppleHDAEngineInput:1B,0,1,1:2</key>
+								<dict>
+									<key>global.arrival</key>
+									<dict>
+										<key>seed</key>
+										<integer>570</integer>
+										<key>time</key>
+										<integer>110000000000</integer>
+									</dict>
+								</dict>
+								<key>device.AppleHDAEngineOutput:1B,0,1,2:0</key>
+								<dict>
+									<key>global.arrival</key>
+									<dict>
+										<key>seed</key>
+										<integer>576</integer>
+										<key>time</key>
+										<integer>27950000000000</integer>
+									</dict>
+								</dict>
+								<key>device.AppleHDAEngineOutputDP:1B,3,1,2:0:{635A-6B2F-01010101}</key>
+								<dict>
+									<key>global.arrival</key>
+									<dict>
+										<key>seed</key>
+										<integer>571</integer>
+										<key>time</key>
+										<integer>105000000000</integer>
+									</dict>
+								</dict>
+								<key>device.AppleHDAEngineOutputDP:1B,3,1,2:0:{8322-6666-01010101}</key>
+								<dict/>
+								<key>device.SonarworksEngine:0</key>
+								<dict>
+									<key>global.arrival</key>
+									<dict>
+										<key>seed</key>
+										<integer>570</integer>
+										<key>time</key>
+										<integer>105000000000</integer>
+									</dict>
+								</dict>
+								<key>device.com.Avid.ProToolsAnalogIOAggregateDevice</key>
+								<dict>
+									<key>global.arrival</key>
+									<dict>
+										<key>seed</key>
+										<integer>1</integer>
+										<key>time</key>
+										<integer>0</integer>
+									</dict>
+								</dict>
+								<key>device.~:Aggregate:0</key>
+								<dict>
+									<key>global.arrival</key>
+									<dict>
+										<key>seed</key>
+										<integer>1</integer>
+										<key>time</key>
+										<integer>0</integer>
+									</dict>
+								</dict>
+								<key>preferred devices</key>
+								<dict>
+									<key>input</key>
+									<array>
+										<dict/>
+										<dict/>
+										<dict/>
+									</array>
+									<key>output</key>
+									<array>
+										<dict>
+											<key>master data source value</key>
+											<integer>1751412846</integer>
+											<key>uid</key>
+											<string>AppleHDAEngineOutput:1B,0,1,2:0</string>
+										</dict>
+										<dict>
+											<key>master data source value</key>
+											<integer>0</integer>
+											<key>uid</key>
+											<string>SonarworksEngine:0</string>
+										</dict>
+										<dict>
+											<key>master data source value</key>
+											<integer>1751412846</integer>
+											<key>uid</key>
+											<string>AppleHDAEngineOutput:1B,0,1,2:0</string>
+										</dict>
+									</array>
+									<key>system output</key>
+									<array>
+										<dict>
+											<key>master data source value</key>
+											<integer>1751412846</integer>
+											<key>uid</key>
+											<string>AppleHDAEngineOutput:1B,0,1,2:0</string>
+										</dict>
+										<dict>
+											<key>master data source value</key>
+											<integer>0</integer>
+											<key>uid</key>
+											<string>SonarworksEngine:0</string>
+										</dict>
+										<dict>
+											<key>master data source value</key>
+											<integer>1751412846</integer>
+											<key>uid</key>
+											<string>AppleHDAEngineOutput:1B,0,1,2:0</string>
+										</dict>
+									</array>
+								</dict>
+								<key>seed</key>
+								<integer>585</integer>
+								<key>version</key>
+								<integer>1</integer>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>MCXToProfile.fae43d2e-08c9-41c1-bbc9-10395053b1c4.alacarte.customsettings.121b9bb9-266a-46db-a560-1ec6cb1cd577</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>121b9bb9-266a-46db-a560-1ec6cb1cd577</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Included custom settings:
+com.apple.audio.SystemSettings
+</string>
+	<key>PayloadDisplayName</key>
+	<string>MCXToProfile: com.apple.audio.SystemSettings</string>
+	<key>PayloadIdentifier</key>
+	<string>audiosystemsettings</string>
+	<key>PayloadOrganization</key>
+	<string></string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>fae43d2e-08c9-41c1-bbc9-10395053b1c4</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

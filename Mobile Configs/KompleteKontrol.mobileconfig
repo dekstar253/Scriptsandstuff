@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.native-instruments.Komplete Kontrol</key>
+				<dict>
+					<key>Forced</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>AB2 AudioBlockSize</key>
+								<integer>512</integer>
+								<key>AB2 AudioDevice</key>
+								<string>CoreAudio Built-in</string>
+								<key>AB2 AudioSampleRate</key>
+								<integer>44100</integer>
+								<key>AB2 MasterDelayComp</key>
+								<integer>0</integer>
+								<key>AB2 OutputChannel 0</key>
+								<integer>0</integer>
+								<key>AB2 OutputChannel 1</key>
+								<integer>1</integer>
+								<key>BrowserFileType</key>
+								<string>Instrument</string>
+								<key>BrowserSortOrder</key>
+								<integer>0</integer>
+								<key>BrowserUserMode</key>
+								<integer>0</integer>
+								<key>DialogPreferences Height</key>
+								<integer>495</integer>
+								<key>DialogPreferences Layer</key>
+								<integer>3</integer>
+								<key>DialogPreferences Left</key>
+								<integer>500</integer>
+								<key>DialogPreferences State</key>
+								<integer>1</integer>
+								<key>DialogPreferences Top</key>
+								<integer>231</integer>
+								<key>DialogPreferences Width</key>
+								<integer>600</integer>
+								<key>DialogPreferences ZPos</key>
+								<integer>0</integer>
+								<key>FBhist-date</key>
+								<string>20171129T122618</string>
+								<key>FBhist-fn0</key>
+								<string></string>
+								<key>FBhist-num</key>
+								<integer>1</integer>
+								<key>Main Window Height</key>
+								<integer>566</integer>
+								<key>Main Window Layer</key>
+								<integer>3</integer>
+								<key>Main Window Left</key>
+								<integer>99</integer>
+								<key>Main Window State</key>
+								<integer>1</integer>
+								<key>Main Window Top</key>
+								<integer>94</integer>
+								<key>Main Window Width</key>
+								<integer>989</integer>
+								<key>Main Window ZPos</key>
+								<integer>0</integer>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>MCXToProfile.9f92a984-71ae-4fdb-a38c-90686d9e8135.alacarte.customsettings.09b556db-a041-4df3-9cbb-71f2658752f2</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>09b556db-a041-4df3-9cbb-71f2658752f2</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Included custom settings:
+com.native-instruments.Komplete Kontrol
+</string>
+	<key>PayloadDisplayName</key>
+	<string>MCXToProfile: com.native-instruments.Komplete Kontrol</string>
+	<key>PayloadIdentifier</key>
+	<string>KompleteKontrol</string>
+	<key>PayloadOrganization</key>
+	<string></string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>9f92a984-71ae-4fdb-a38c-90686d9e8135</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

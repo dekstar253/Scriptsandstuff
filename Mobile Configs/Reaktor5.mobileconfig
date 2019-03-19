@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.native-instruments.Reaktor5.5</key>
+				<dict>
+					<key>Forced</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>AB2 AudioDevice</key>
+								<string>CoreAudio Built-in</string>
+								<key>AKAIWorkDir</key>
+								<string>Macintosh HD:Users:Guest:Documents:Native Instruments:Reaktor5:Library:Imported Files:</string>
+								<key>ArrayWorkDir</key>
+								<string>Macintosh HD:Users:Guest:Documents:Native Instruments:Reaktor5:Library:Tables:</string>
+								<key>AudioWorkDir</key>
+								<string>Macintosh HD:Users:Guest:Documents:Native Instruments:Reaktor5:Library:Audio Files:</string>
+								<key>Browser Current Factory Path</key>
+								<string>Factory</string>
+								<key>Browser Current Player Path</key>
+								<string>Monark</string>
+								<key>Browser CurrentSwitch</key>
+								<integer>19</integer>
+								<key>Browser Resizer</key>
+								<integer>225</integer>
+								<key>BrowserLastFavorite</key>
+								<integer>0</integer>
+								<key>CoreCellWorkDir</key>
+								<string>Macintosh HD:Users:Guest:Documents:Native Instruments:Reaktor5:Library:Core Cells:</string>
+								<key>CoreMacroWorkDir</key>
+								<string>Macintosh HD:Users:Guest:Documents:Native Instruments:Reaktor5:Library:Core Macros:</string>
+								<key>CreateBackups</key>
+								<integer>0</integer>
+								<key>EditMode</key>
+								<integer>0</integer>
+								<key>EditorPath</key>
+								<string></string>
+								<key>EnsWorkDir</key>
+								<string>Macintosh HD:Users:Guest:Documents:Native Instruments:Reaktor5:Library:Ensembles:</string>
+								<key>ExternalSync</key>
+								<integer>0</integer>
+								<key>ImageWorkDir</key>
+								<string>Macintosh HD:Users:Guest:Documents:Native Instruments:Reaktor5:Library:Pictures:</string>
+								<key>InstrWorkDir</key>
+								<string>Macintosh HD:Users:Guest:Documents:Native Instruments:Reaktor5:Library:Instruments:</string>
+								<key>LastEnsPath</key>
+								<string>Macintosh HD:Users:Guest:Documents:Native Instruments:Reaktor5:Library:Ensembles:Untitled Ensemble</string>
+								<key>LastEnsPathValid</key>
+								<integer>1</integer>
+								<key>LayoutMode</key>
+								<integer>0</integer>
+								<key>MacroWorkDir</key>
+								<string>Macintosh HD:Users:Guest:Documents:Native Instruments:Reaktor5:Library:Macros:</string>
+								<key>Main Window Height</key>
+								<integer>703</integer>
+								<key>Main Window Layer</key>
+								<integer>3</integer>
+								<key>Main Window Left</key>
+								<integer>177</integer>
+								<key>Main Window State</key>
+								<integer>1</integer>
+								<key>Main Window Top</key>
+								<integer>68</integer>
+								<key>Main Window Width</key>
+								<integer>900</integer>
+								<key>Main Window ZPos</key>
+								<integer>0</integer>
+								<key>MasterSync</key>
+								<integer>0</integer>
+								<key>MaxUsage</key>
+								<integer>95</integer>
+								<key>MultiOpen</key>
+								<integer>1</integer>
+								<key>OldSpacebarBehaviour</key>
+								<integer>0</integer>
+								<key>OscLocalIdent</key>
+								<string>Reaktor5-129</string>
+								<key>OscLocalPort</key>
+								<integer>10000</integer>
+								<key>OscNetSyncState</key>
+								<integer>0</integer>
+								<key>OscTimeOffset</key>
+								<integer>0</integer>
+								<key>OscWasRunning</key>
+								<integer>0</integer>
+								<key>PresetsWorkDir</key>
+								<string>Macintosh HD:Users:Guest:Documents:Native Instruments:Reaktor5:Library:Presets:</string>
+								<key>Properties Height</key>
+								<integer>0</integer>
+								<key>Properties Layer</key>
+								<integer>0</integer>
+								<key>Properties Left</key>
+								<integer>-10000</integer>
+								<key>Properties State</key>
+								<integer>1</integer>
+								<key>Properties Top</key>
+								<integer>-10000</integer>
+								<key>Properties Width</key>
+								<integer>0</integer>
+								<key>Properties ZPos</key>
+								<integer>0</integer>
+								<key>PropertiesMode</key>
+								<integer>0</integer>
+								<key>QWERTYMidi</key>
+								<integer>1</integer>
+								<key>SampleMap SortPropertyDirection  0</key>
+								<integer>1</integer>
+								<key>SampleMap SortPropertyDirection  1</key>
+								<integer>1</integer>
+								<key>SampleMap SortPropertyDirection  2</key>
+								<integer>1</integer>
+								<key>SampleMap SortPropertyDirection  3</key>
+								<integer>1</integer>
+								<key>SampleMap SortPropertyDirection  4</key>
+								<integer>1</integer>
+								<key>SampleMap SortPropertyDirection  5</key>
+								<integer>1</integer>
+								<key>SampleMap SortPropertyDirection  6</key>
+								<integer>1</integer>
+								<key>SampleMap SortPropertyDirection  7</key>
+								<integer>1</integer>
+								<key>SampleMap SortPropertyRing  0</key>
+								<integer>2</integer>
+								<key>SampleMap SortPropertyRing  1</key>
+								<integer>1</integer>
+								<key>SampleMap SortPropertyRing  2</key>
+								<integer>7</integer>
+								<key>SampleMap SortPropertyRing  3</key>
+								<integer>6</integer>
+								<key>SampleMap SortPropertyRing  4</key>
+								<integer>4</integer>
+								<key>SampleMap SortPropertyRing  5</key>
+								<integer>3</integer>
+								<key>SampleMap SortPropertyRing  6</key>
+								<integer>5</integer>
+								<key>SampleMap SortPropertyRing  7</key>
+								<integer>0</integer>
+								<key>SampleMapOpen</key>
+								<integer>0</integer>
+								<key>SampleMapWnd Resizer</key>
+								<integer>1050253722</integer>
+								<key>ScreensetsPersistent</key>
+								<integer>0</integer>
+								<key>SnapshotWorkDir</key>
+								<string>Macintosh HD:Users:Guest:Documents:Native Instruments:Reaktor5:Library:Snapshots:</string>
+								<key>Snapshots SnapLink</key>
+								<integer>1</integer>
+								<key>StartupLoadMode</key>
+								<integer>0</integer>
+								<key>StateMulti</key>
+								<integer>0</integer>
+								<key>ToolbarTransportOpen</key>
+								<integer>0</integer>
+								<key>UndoMax</key>
+								<integer>20</integer>
+								<key>UserContentDir</key>
+								<string>Macintosh HD:Users:Guest:Documents:Native Instruments:Reaktor5:Library:</string>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>MCXToProfile.5e07a136-9bd2-49bf-b37c-aca282a13efa.alacarte.customsettings.938f16da-2ddf-477b-8f71-f83e087b282d</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>938f16da-2ddf-477b-8f71-f83e087b282d</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Included custom settings:
+com.native-instruments.Reaktor5.5
+</string>
+	<key>PayloadDisplayName</key>
+	<string>MCXToProfile: com.native-instruments.Reaktor5.5</string>
+	<key>PayloadIdentifier</key>
+	<string>Reaktor5</string>
+	<key>PayloadOrganization</key>
+	<string></string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>5e07a136-9bd2-49bf-b37c-aca282a13efa</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

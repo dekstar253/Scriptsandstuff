@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.native-instruments.Massive</key>
+				<dict>
+					<key>Forced</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>AB2 AudioBlockSize</key>
+								<integer>512</integer>
+								<key>AB2 AudioDevice</key>
+								<string>CoreAudio Built-in</string>
+								<key>AB2 AudioSampleRate</key>
+								<integer>44100</integer>
+								<key>AB2 MasterDelayComp</key>
+								<integer>0</integer>
+								<key>AB2 OutputChannel 0</key>
+								<integer>0</integer>
+								<key>AB2 OutputChannel 1</key>
+								<integer>1</integer>
+								<key>Browser ColumSet CheckSum 1</key>
+								<integer>0</integer>
+								<key>Browser ColumSet CheckSum 2</key>
+								<integer>89571</integer>
+								<key>Browser ColumSet CheckSum 3</key>
+								<integer>0</integer>
+								<key>Browser ColumSet CheckSum 4</key>
+								<integer>0</integer>
+								<key>Browser ColumSet CheckSum 5</key>
+								<integer>0</integer>
+								<key>Browser ColumSet CheckSum 6</key>
+								<integer>0</integer>
+								<key>Browser ColumSet Name 1</key>
+								<string></string>
+								<key>Browser ColumSet Name 2</key>
+								<string>24 0 152 1 -135 2 -100 3 -96 4 -100 5 -72 6 190 7 -96 8 -100 9 -56 10 -100 11 -32 12 -155 13 -100 14 -128 15 -100 16 -128 17 -100 18 -100 19 -100 20 -100 21 -100 22 -100 23 -100 </string>
+								<key>Browser ColumSet Name 3</key>
+								<string></string>
+								<key>Browser ColumSet Name 4</key>
+								<string></string>
+								<key>Browser ColumSet Name 5</key>
+								<string></string>
+								<key>Browser ColumSet Name 6</key>
+								<string></string>
+								<key>Browser ColumSet SortOrder 1</key>
+								<integer>0</integer>
+								<key>Browser ColumSet SortOrder 2</key>
+								<integer>2</integer>
+								<key>Browser ColumSet SortOrder 3</key>
+								<integer>0</integer>
+								<key>Browser ColumSet SortOrder 4</key>
+								<integer>0</integer>
+								<key>Browser ColumSet SortOrder 5</key>
+								<integer>0</integer>
+								<key>Browser ColumSet SortOrder 6</key>
+								<integer>0</integer>
+								<key>Browser Path 1</key>
+								<string></string>
+								<key>Browser Path 2</key>
+								<string></string>
+								<key>Browser Path 3</key>
+								<string></string>
+								<key>Browser PrgList</key>
+								<integer>0</integer>
+								<key>Browser Resizer</key>
+								<integer>222</integer>
+								<key>Browser View</key>
+								<integer>1</integer>
+								<key>BrowserLastFavorite</key>
+								<integer>0</integer>
+								<key>DisplayQueryNumKind</key>
+								<integer>1</integer>
+								<key>EnvelopeHoldRelease</key>
+								<integer>1</integer>
+								<key>ExternalSync</key>
+								<integer>0</integer>
+								<key>MainWindowX</key>
+								<integer>321</integer>
+								<key>MainWindowY</key>
+								<integer>139</integer>
+								<key>MaxNumVoices</key>
+								<integer>16</integer>
+								<key>Programlistenabled</key>
+								<integer>0</integer>
+								<key>RecentFile_0</key>
+								<string></string>
+								<key>RecentFile_1</key>
+								<string></string>
+								<key>RecentFile_2</key>
+								<string></string>
+								<key>RecentFile_3</key>
+								<string></string>
+								<key>RecentFile_4</key>
+								<string></string>
+								<key>RecentFile_5</key>
+								<string></string>
+								<key>RecentFile_6</key>
+								<string></string>
+								<key>RecentFile_7</key>
+								<string></string>
+								<key>RecentFile_8</key>
+								<string></string>
+								<key>RecentFile_9</key>
+								<string></string>
+								<key>SNDNumSoundPaths</key>
+								<integer>0</integer>
+								<key>SND_MidiWorkDir</key>
+								<string></string>
+								<key>SND_PageWorkDir</key>
+								<string>Macintosh HD:Users:Guest:Documents:Native Instruments:Massive:Controller Pages:</string>
+								<key>SND_PerformanceWorkDir</key>
+								<string></string>
+								<key>SND_SongWorkDir</key>
+								<string></string>
+								<key>SND_SoundWorkDir</key>
+								<string>Macintosh HD:Users:Guest:Documents:Native Instruments:Massive:Sounds:</string>
+								<key>User Pathes Copied</key>
+								<integer>1</integer>
+								<key>UserContentPathsCreated</key>
+								<integer>1</integer>
+								<key>firstNisStart</key>
+								<integer>1</integer>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>MCXToProfile.b85b63dd-ae81-4561-83e6-3f2220797141.alacarte.customsettings.47821356-eeda-4562-b684-a651e9b63482</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>47821356-eeda-4562-b684-a651e9b63482</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Included custom settings:
+com.native-instruments.Massive
+</string>
+	<key>PayloadDisplayName</key>
+	<string>MCXToProfile: com.native-instruments.Massive</string>
+	<key>PayloadIdentifier</key>
+	<string>Massive</string>
+	<key>PayloadOrganization</key>
+	<string></string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>b85b63dd-ae81-4561-83e6-3f2220797141</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

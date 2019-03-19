@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadIdentifier</key>
+	<string>com.pyramind.profile.chromesettings</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>bf900530-2306-0131-32e2-000c2944c108</string>
+	<key>PayloadOrganization</key>
+	<string>Pyramind</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>PayloadDisplayName</key>
+	<string>Chrome</string>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.mdm.VMServer.local.bf900530-2306-0131-32e2-000c2944c108.alacarte.customsettings.3377ead0-2310-0131-32ec-000c2944c108</string>
+			<key>PayloadUUID</key>
+			<string>3377ead0-2310-0131-32ec-000c2944c108</string>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadDisplayName</key>
+			<string>Custom: (com.google.Chrome)</string>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.google.Chrome</key>
+				<dict>
+					<key>Forced</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>AutoFillEnabled</key>
+								<false/>
+								<key>DefaultBrowserSettingEnabled</key>
+								<true/>
+								<key>BookmarkBarEnabled</key>
+								<false/>
+								<key>HideWebStorePromo</key>
+								<true/>
+								<key>HomepageIsNewTabPage</key>
+								<true/>
+								<key>HomepageLocation</key>
+								<string>https://pyramind.zendesk.com/hc/en-us/requests/new</string>
+								<key>PasswordManagerEnabled</key>
+								<false/>
+								<key>RestoreOnStartup</key>
+								<integer>4</integer>
+								<key>RestoreOnStartupURLs</key>
+								<array>
+								<string>https://pyramind.zendesk.com/hc/en-us/requests/new</string>
+								<string>http://classes.pyramind.com</string>
+								</array>
+								<key>SyncDisabled</key>
+								<true/>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

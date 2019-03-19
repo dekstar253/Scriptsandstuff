@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.sonarworks.Systemwide4</key>
+				<dict>
+					<key>Forced</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>FirstRun</key>
+								<string>1</string>
+								<key>NSNavLastRootDirectory</key>
+								<string>~/Library/Sonarworks/Reference 4/Sonarworks Projects</string>
+								<key>NSNavPanelExpandedSizeForOpenMode</key>
+								<string>{712, 448}</string>
+								<key>NSNavPanelExpandedSizeForSaveMode</key>
+								<string>{712, 448}</string>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>MCXToProfile.abc8e2d7-82c2-4142-a433-cf3076040308.alacarte.customsettings.4fac2490-6007-485e-81a2-04b4d0d4e94d</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>4fac2490-6007-485e-81a2-04b4d0d4e94d</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Included custom settings:
+com.sonarworks.Systemwide4
+</string>
+	<key>PayloadDisplayName</key>
+	<string>MCXToProfile: com.sonarworks.Systemwide4</string>
+	<key>PayloadIdentifier</key>
+	<string>swsystemwide4</string>
+	<key>PayloadOrganization</key>
+	<string></string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>abc8e2d7-82c2-4142-a433-cf3076040308</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

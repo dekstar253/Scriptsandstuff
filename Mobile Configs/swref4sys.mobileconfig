@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.sonarworks.reference4System</key>
+				<dict>
+					<key>Forced</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>Serial</key>
+								<string>&lt;?xml version="1.0" encoding="utf-8"?&gt;&lt;root&gt;&lt;activations&gt;&lt;activation value="pxjhdcwr43avszh5mjaqa6ar" dateActivated="11/20/2018 08:37:59 PM"&gt;&lt;contents&gt;&lt;product name="Reference 4 Headphone Edition Plugin" id="18" trialDays="0" /&gt;&lt;product name="Reference 4 Headphone Edition Systemwide" id="19" trialDays="0" /&gt;&lt;/contents&gt;&lt;computer value="g28d97869448c259d845780867b6f95e6b3addc70"&gt;&lt;product id="18" isTrial="false" isPermanent="true" /&gt;&lt;product id="19" isTrial="false" isPermanent="true" /&gt;&lt;/computer&gt;&lt;/activation&gt;&lt;/activations&gt;&lt;securityToken&gt;73006323B15C377F8AAD63870FD7AC670C339C5FFD23A1616D3783544D53986A1F245425950A23A376CFF2C7D0071309A790D21E56DBFE0EFF91DEA92577D51311BF09E4101D896361336B02F24133D16D8B2762C59EF46C4CB38A835BF85629849BE07F9B356FB3797D083DB6473ACC5759ABF07D7EBB5FF8A0BECC78D3AC6F0CDDB6542CC7B09A241D2A2FC7E098E04FCD37FC0013DEC0C646788E7003773A414578070D335C6D67B178307CAA396501480FC5390BF20B0AF7138975AFE0598BD8A2CF1664ECEE53332CA3181EA618218C42FFCBE35614A13A6A8821304F14C5A02A830372F8D4252BFBFB19911C10EDD2A43A7D03ABB3FEA26DCFC259AE8F&lt;/securityToken&gt;&lt;error&gt;0&lt;/error&gt;&lt;/root&gt;</string>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>MCXToProfile.e4dd5538-768c-4723-ba90-dd0d9567d35d.alacarte.customsettings.c8b1e5fa-6a98-4d8e-a6e2-a127616c0ac2</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>c8b1e5fa-6a98-4d8e-a6e2-a127616c0ac2</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Included custom settings:
+com.sonarworks.reference4System
+</string>
+	<key>PayloadDisplayName</key>
+	<string>MCXToProfile: com.sonarworks.reference4System</string>
+	<key>PayloadIdentifier</key>
+	<string>swref4sys</string>
+	<key>PayloadOrganization</key>
+	<string></string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>e4dd5538-768c-4723-ba90-dd0d9567d35d</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

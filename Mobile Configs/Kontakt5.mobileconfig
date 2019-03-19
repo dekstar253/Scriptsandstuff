@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.native-instruments.Kontakt 5</key>
+				<dict>
+					<key>Forced</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>AB2 AudioBlockSize</key>
+								<integer>512</integer>
+								<key>AB2 AudioDevice</key>
+								<string>CoreAudio Built-in</string>
+								<key>AB2 AudioSampleRate</key>
+								<integer>44100</integer>
+								<key>AB2 MasterDelayComp</key>
+								<integer>0</integer>
+								<key>AB2 OutputChannel 0</key>
+								<integer>0</integer>
+								<key>AB2 OutputChannel 1</key>
+								<integer>1</integer>
+								<key>BrowserResultsListModifiedFlags</key>
+								<integer>0</integer>
+								<key>BrowserResultsListOrder</key>
+								<string>Version_005 9 0 163 1 -128 2 -128 3 -128 4 -400 5 -135 6 135 7 -50 8 -50 </string>
+								<key>BrowserResultsListOrder 2</key>
+								<string>Version_005 9 0 60 1 -128 2 -128 3 -128 4 -400 5 -135 6 135 7 -50 8 -50 </string>
+								<key>BrowserResultsListOrder 3</key>
+								<string>Version_005 9 0 60 1 -128 2 -128 3 -128 4 -400 5 -135 6 135 7 -50 8 -50 </string>
+								<key>BrowserResultsListOrder 4</key>
+								<string>Version_005 9 0 60 1 -128 2 -128 3 -128 4 -400 5 -135 6 135 7 -50 8 -50 </string>
+								<key>BrowserSearchSettingsData</key>
+								<string>AgAAAAMAAAACAAAABAAAAFQAeQBwAGUAZWVydAACAAAAAAAAAAEAAAD/////AgAAAAQAAABCAGEAbgBrAHZwcnAAAQAAAAAAAAABAAAA/////wIAAAAGAAAAVABpAG0AYgByAGUAdGVzIAABAAAAAAAAAAEAAAD/////AwAAAAIAAAAEAAAAVAB5AHAAZQBlZXJ0AAIAAAAAAAAAAQAAAP////8CAAAABAAAAEIAYQBuAGsAdnBycAABAAAAAAAAAAEAAAD/////AgAAAAYAAABUAGkAbQBiAHIAZQB0ZXMgAAEAAAAAAAAAAQAAAP////8CAAAAAgAAAAgAAABDAGEAdABlAGcAbwByAHkAZWVydAACAAAAAAAAAAEAAAD/////AgAAAAQAAABCAGEAbgBrAHZwcnAAAQAAAAAAAAABAAAA/////wMAAAACAAAABAAAAFQAeQBwAGUAZWVydAACAAAAAAAAAAEAAAD/////AgAAAAQAAABCAGEAbgBrAHZwcnAAAQAAAAAAAAABAAAA/////wIAAAAGAAAAVABpAG0AYgByAGUAdGVzIAABAAAAAAAAAAEAAAD/////</string>
+								<key>BrowserSearchSettingsSize</key>
+								<integer>447</integer>
+								<key>DefaultColor</key>
+								<integer>9</integer>
+								<key>UserListIndex</key>
+								<integer>0</integer>
+								<key>UserRemoved</key>
+								<integer>0</integer>
+								<key>activateDFDOnLoad_AKAI</key>
+								<integer>0</integer>
+								<key>activateDFDOnLoad_Battery</key>
+								<integer>0</integer>
+								<key>activateDFDOnLoad_EXS</key>
+								<integer>0</integer>
+								<key>activateDFDOnLoad_Giga</key>
+								<integer>1</integer>
+								<key>activateDFDOnLoad_Halion</key>
+								<integer>1</integer>
+								<key>activateDFDOnLoad_Kontakt</key>
+								<integer>1</integer>
+								<key>activateDFDOnLoad_LM4</key>
+								<integer>0</integer>
+								<key>activateDFDOnLoad_SF2</key>
+								<integer>0</integer>
+								<key>addFilesToDB</key>
+								<integer>1</integer>
+								<key>autoCombineImportedSamples</key>
+								<integer>1</integer>
+								<key>autoEnableFX</key>
+								<integer>1</integer>
+								<key>autoFill</key>
+								<integer>1</integer>
+								<key>autoMappingFN</key>
+								<string>@</string>
+								<key>autoMoveRootKey</key>
+								<integer>1</integer>
+								<key>autoMuteNewInstrument</key>
+								<integer>0</integer>
+								<key>autoRefreshBrowserX</key>
+								<integer>0</integer>
+								<key>autoSelectGroups</key>
+								<integer>1</integer>
+								<key>automapToken0</key>
+								<integer>0</integer>
+								<key>automapToken1</key>
+								<integer>0</integer>
+								<key>automapToken2</key>
+								<integer>0</integer>
+								<key>automapToken3</key>
+								<integer>0</integer>
+								<key>automapToken4</key>
+								<integer>0</integer>
+								<key>automapToken5</key>
+								<integer>0</integer>
+								<key>batchCollectDoCompress</key>
+								<integer>1</integer>
+								<key>batchCollectDstPath</key>
+								<string>@</string>
+								<key>batchCollectMirrorFolders</key>
+								<integer>1</integer>
+								<key>batchCollectSrcPath</key>
+								<string>@</string>
+								<key>browserAutoPreviewEnabled</key>
+								<integer>0</integer>
+								<key>browserAuto_widthGroup</key>
+								<integer>158</integer>
+								<key>browserAuto_widthInst</key>
+								<integer>70</integer>
+								<key>browserAuto_widthParameter</key>
+								<integer>70</integer>
+								<key>browserViewAuto_Sep1PosY</key>
+								<integer>80</integer>
+								<key>browserViewDB_InfoVisible</key>
+								<integer>1</integer>
+								<key>browserViewDB_Sep1PosY</key>
+								<integer>50</integer>
+								<key>browserViewDB_Sep2PosY</key>
+								<integer>80</integer>
+								<key>browserViewFiles_InfoVisible</key>
+								<integer>1</integer>
+								<key>browserViewFiles_Sep1PosY</key>
+								<integer>50</integer>
+								<key>browserViewFiles_Sep2PosY</key>
+								<integer>80</integer>
+								<key>browserViewLibs_InfoVisible</key>
+								<integer>1</integer>
+								<key>browserViewLibs_Sep1PosY</key>
+								<integer>84</integer>
+								<key>browserViewModules_InfoVisible</key>
+								<integer>1</integer>
+								<key>browserViewModules_Sep1PosY</key>
+								<integer>60</integer>
+								<key>browserViewMonitor_Sep1PosY</key>
+								<integer>80</integer>
+								<key>browserWidth</key>
+								<integer>326</integer>
+								<key>bufferSizeDFD</key>
+								<integer>196608</integer>
+								<key>bufferSizeVoiceDFD</key>
+								<integer>393216</integer>
+								<key>bypassFilterGiga</key>
+								<integer>1</integer>
+								<key>cloneNewGroup</key>
+								<integer>1</integer>
+								<key>dbSearchSamples</key>
+								<integer>0</integer>
+								<key>defInstAuthor</key>
+								<string>Kontakt</string>
+								<key>defMapBaseKey</key>
+								<integer>12</integer>
+								<key>defMapFadeTime</key>
+								<integer>4000</integer>
+								<key>defaultMinSliceDuration</key>
+								<integer>50</integer>
+								<key>defaultRootKey</key>
+								<integer>60</integer>
+								<key>defaultVolume</key>
+								<integer>600</integer>
+								<key>deleteKeyHack</key>
+								<integer>0</integer>
+								<key>disableOVKM</key>
+								<integer>0</integer>
+								<key>disableUndo</key>
+								<integer>1</integer>
+								<key>doubleClickOnSampleCreatesInstrument</key>
+								<integer>1</integer>
+								<key>enableDefaultClick</key>
+								<integer>1</integer>
+								<key>enableKDBExport</key>
+								<integer>0</integer>
+								<key>fftw</key>
+								<string>(fftw-3.3.3 fftwf_wisdom #x08ac4c16 #x457005cc #xea102cf7 #xd7ff9038
+  (fftwf_dft_vrank_geq1_register 0 #x10048 #x10048 #x0 #x8bc45e28 #x7ae21cdf #xa25bc889 #x9d25ac25)
+  (fftwf_codelet_r2cf_2 2 #x10048 #x10048 #x0 #x9f9efdff #xd3834273 #xb47d05c3 #xa74b59f7)
+  (fftwf_dft_vrank_geq1_register 0 #x10048 #x10048 #x0 #xb58f76cd #x2538d379 #x03810491 #x9a59a223)
+  (fftwf_codelet_n1bv_32_sse2 0 #x10048 #x10048 #x0 #x13273119 #x93028345 #x644ccaf5 #x490d1dad)
+  (fftwf_codelet_r2cb_10 2 #x10048 #x10048 #x0 #xd07c147e #x3b95e752 #x3c9c6e98 #x54cc24fc)
+  (fftwf_codelet_t1buv_10_sse2 0 #x10048 #x10048 #x0 #x1e809ed7 #x039f4ec8 #x6c9760b2 #x2548766d)
+  (fftwf_codelet_n2bv_20_sse2 0 #x10048 #x10048 #x0 #x406be43f #x36c37b0e #x5a958124 #xbdbcb274)
+  (fftwf_codelet_t2fv_10_sse2 0 #x10048 #x10048 #x0 #xa79914fb #x7d869d0f #x2b9b6d0f #x55ba31cd)
+  (fftwf_codelet_r2cbIII_2 2 #x10048 #x10048 #x0 #xa956b861 #xfbe86ebf #xbe805eb7 #xe53f5a30)
+  (fftwf_codelet_t2fv_8_sse2 0 #x10048 #x10048 #x0 #x0cd53fd6 #x7103b963 #xbc8cec32 #x897a5702)
+  (fftwf_codelet_r2cf_16 2 #x10048 #x10048 #x0 #xf3429d70 #xdd71fb47 #xe9c693d7 #x800adecd)
+  (fftwf_codelet_n2fv_20_sse2 0 #x10048 #x10048 #x0 #x31a43e74 #x151b162d #xab17c9c2 #x86529413)
+  (fftwf_codelet_r2cfII_2 2 #x10048 #x10048 #x0 #x2a89910d #x73d5fd94 #xdcc8bd1e #x7d1146e7)
+  (fftwf_codelet_r2cb_2 2 #x10048 #x10048 #x0 #x432ab544 #xb3e1f6d2 #x31b3c0ca #xac259f89)
+  (fftwf_codelet_r2cfII_16 2 #x10048 #x10048 #x0 #x1de2b7da #x5c31e9e9 #xaeaa62ff #x6de36f41)
+  (fftwf_codelet_t1bv_4_sse2 0 #x10048 #x10048 #x0 #xef1718bd #xc3a53881 #xb2a8c3d6 #x864246ed)
+  (fftwf_codelet_t2bv_20_sse2 0 #x10048 #x10048 #x0 #x5696f21a #xef3cbbb8 #x3b2d5cf0 #x520ca16a)
+  (fftwf_codelet_hc2cbdftv_10_sse2 0 #x10048 #x10048 #x0 #xb8f0a5ed #x1558e3c4 #x9c4ed215 #xae74ab33)
+  (fftwf_codelet_hc2cfdftv_16_sse2 0 #x10048 #x10048 #x0 #x304b845c #x7f303236 #x15365cf1 #x6ab2bd0b)
+  (fftwf_dft_vrank_geq1_register 0 #x10048 #x10048 #x0 #x8e549ff2 #x43bc5eee #x380340e8 #xa64859a2)
+  (fftwf_dft_vrank_geq1_register 0 #x10048 #x10048 #x0 #x48bf6a74 #xc181439a #xed505d09 #xa0c16f37)
+  (fftwf_codelet_hc2cfdft_2 0 #x10048 #x10048 #x0 #x304c05b1 #xab153802 #x4686bc03 #xaf982b0d)
+  (fftwf_codelet_r2cbIII_10 2 #x10048 #x10048 #x0 #x984df5c9 #x6aab5f46 #x08b495d1 #x03b8d4ba)
+  (fftwf_codelet_hc2cbdft_2 0 #x10048 #x10048 #x0 #x8e42e0de #xa36bca6e #x724f78fc #xd9c46542)
+  (fftwf_dft_vrank_geq1_register 0 #x10048 #x10048 #x0 #x26c9f501 #x4f4570f3 #x00a8bd0e #x03cbc7bd)
+)
+</string>
+								<key>flatViewBrowserFav</key>
+								<integer>0</integer>
+								<key>idxCurOptionPane</key>
+								<integer>1</integer>
+								<key>idxLastBrowserPathFiles</key>
+								<integer>0</integer>
+								<key>importDistKeySW</key>
+								<integer>0</integer>
+								<key>importLimitFNames31</key>
+								<integer>0</integer>
+								<key>importMapBulkSamples</key>
+								<integer>1</integer>
+								<key>importPreV2ForceDFD_X</key>
+								<integer>1</integer>
+								<key>importSamplesAsAIF</key>
+								<integer>0</integer>
+								<key>importWriteAbsPaths</key>
+								<integer>0</integer>
+								<key>insertsVisible</key>
+								<integer>1</integer>
+								<key>interpQualityOffline</key>
+								<integer>3</integer>
+								<key>k2PMiniView</key>
+								<integer>0</integer>
+								<key>k2pMiniViewLastLoadedPatch</key>
+								<string>@</string>
+								<key>kbForMIDIVelo</key>
+								<integer>100</integer>
+								<key>kbOffsetOct</key>
+								<integer>2</integer>
+								<key>kcDestProgramPath</key>
+								<string>@</string>
+								<key>kcDestSamplePath</key>
+								<string>@</string>
+								<key>keepK1MIDIChannel</key>
+								<integer>0</integer>
+								<key>keyFollow</key>
+								<integer>1</integer>
+								<key>keyboardVisible</key>
+								<integer>0</integer>
+								<key>lastBrowserPathFav_00</key>
+								<string>@</string>
+								<key>lastBrowserPathFav_01</key>
+								<string>@</string>
+								<key>lastBrowserPathFav_02</key>
+								<string>@</string>
+								<key>lastBrowserPathFav_03</key>
+								<string>@</string>
+								<key>lastBrowserPathFav_04</key>
+								<string>@</string>
+								<key>lastBrowserPathFav_05</key>
+								<string>@</string>
+								<key>lastBrowserPathFav_06</key>
+								<string>@</string>
+								<key>lastBrowserPathFav_07</key>
+								<string>@</string>
+								<key>lastBrowserPathFav_08</key>
+								<string>@</string>
+								<key>lastBrowserPathFav_09</key>
+								<string>@</string>
+								<key>lastBrowserPathFav_10</key>
+								<string>@</string>
+								<key>lastBrowserPathFav_11</key>
+								<string>@</string>
+								<key>lastBrowserPathFav_12</key>
+								<string>@</string>
+								<key>lastBrowserPathFav_13</key>
+								<string>@</string>
+								<key>lastBrowserPathFav_14</key>
+								<string>@</string>
+								<key>lastBrowserPathFav_15</key>
+								<string>@</string>
+								<key>lastBrowserPathFav_16</key>
+								<string>@</string>
+								<key>lastBrowserPathFav_17</key>
+								<string>@</string>
+								<key>lastBrowserPathFav_18</key>
+								<string>@</string>
+								<key>lastBrowserPathFav_19</key>
+								<string>@</string>
+								<key>lastBrowserPathFav_20</key>
+								<string>@</string>
+								<key>lastBrowserPathFav_21</key>
+								<string>@</string>
+								<key>lastBrowserPathFav_22</key>
+								<string>@</string>
+								<key>lastBrowserPathFav_23</key>
+								<string>@</string>
+								<key>lastBrowserPathFav_24</key>
+								<string>@</string>
+								<key>lastBrowserPathFav_25</key>
+								<string>@</string>
+								<key>lastBrowserPathFav_26</key>
+								<string>@</string>
+								<key>lastBrowserPathFav_27</key>
+								<string>@</string>
+								<key>lastBrowserPathFav_28</key>
+								<string>@</string>
+								<key>lastBrowserPathFav_29</key>
+								<string>@</string>
+								<key>lastBrowserPathFav_30</key>
+								<string>@</string>
+								<key>lastBrowserPathFav_31</key>
+								<string>@</string>
+								<key>lastBrowserPathFiles_000</key>
+								<string>@</string>
+								<key>lastBrowserPathFiles_001</key>
+								<string>@</string>
+								<key>lastBrowserPathFiles_002</key>
+								<string>@</string>
+								<key>lastBrowserPathFiles_003</key>
+								<string>@</string>
+								<key>lastBrowserPathFiles_004</key>
+								<string>@</string>
+								<key>lastBrowserPathFiles_005</key>
+								<string>@</string>
+								<key>lastBrowserPathFiles_006</key>
+								<string>@</string>
+								<key>lastBrowserPathFiles_007</key>
+								<string>@</string>
+								<key>lastBrowserPathFiles_008</key>
+								<string>@</string>
+								<key>lastBrowserPathFiles_009</key>
+								<string>@</string>
+								<key>lastBrowserView</key>
+								<integer>0</integer>
+								<key>lastBrowserView3SubItem</key>
+								<integer>1</integer>
+								<key>lastBrowserView3SubSubItem_1</key>
+								<integer>0</integer>
+								<key>lastBrowserView3SubSubItem_2</key>
+								<integer>0</integer>
+								<key>lastLoadPath</key>
+								<string>@</string>
+								<key>lastMissingSamplesFolder</key>
+								<string>@</string>
+								<key>lastSavePath</key>
+								<string>@</string>
+								<key>lastViewSizeMapPopup</key>
+								<integer>0</integer>
+								<key>lastViewSizeSamplePopup</key>
+								<integer>0</integer>
+								<key>latchMidiMode</key>
+								<integer>0</integer>
+								<key>loadSamplesInBackground</key>
+								<integer>1</integer>
+								<key>localOff</key>
+								<integer>0</integer>
+								<key>lockEditor</key>
+								<integer>0</integer>
+								<key>lockStateLastBrowserPathFiles</key>
+								<integer>0</integer>
+								<key>mapEditAutoSelectGroups</key>
+								<integer>1</integer>
+								<key>mapEditMapMode</key>
+								<integer>0</integer>
+								<key>mapPopupHeight_A</key>
+								<integer>353</integer>
+								<key>mapPopupHeight_B</key>
+								<integer>600</integer>
+								<key>mapPopupHeight_C</key>
+								<integer>700</integer>
+								<key>mapPopupWidth_A</key>
+								<integer>633</integer>
+								<key>mapPopupWidth_B</key>
+								<integer>800</integer>
+								<key>mapPopupWidth_C</key>
+								<integer>1024</integer>
+								<key>masterTempo</key>
+								<integer>120000</integer>
+								<key>masterTune</key>
+								<integer>2000</integer>
+								<key>masterVisible</key>
+								<integer>0</integer>
+								<key>masterVolume</key>
+								<integer>3600</integer>
+								<key>metronomeVolume</key>
+								<integer>2400</integer>
+								<key>midiChannelAssignment</key>
+								<integer>0</integer>
+								<key>midiClockIn</key>
+								<integer>0</integer>
+								<key>midiClockOut</key>
+								<integer>0</integer>
+								<key>midiOutMode</key>
+								<integer>1</integer>
+								<key>mxAutoMode</key>
+								<integer>1</integer>
+								<key>mxMemoryExtension</key>
+								<integer>0</integer>
+								<key>numAutomatableParameters</key>
+								<integer>64</integer>
+								<key>numCPUs</key>
+								<integer>4</integer>
+								<key>numSearchDBCustomFolders</key>
+								<integer>15</integer>
+								<key>numVoicesDFD</key>
+								<integer>64</integer>
+								<key>onlyDrawSelectedGroupsInMapEditor</key>
+								<integer>1</integer>
+								<key>outputsVisible</key>
+								<integer>0</integer>
+								<key>overloadVoiceKillMode</key>
+								<integer>0</integer>
+								<key>overrideInstDFD</key>
+								<integer>0</integer>
+								<key>overrideInstPreloadSize</key>
+								<integer>61440</integer>
+								<key>pedalMode</key>
+								<integer>4</integer>
+								<key>pitchBendRange</key>
+								<integer>2</integer>
+								<key>playbackAutoScroll</key>
+								<integer>0</integer>
+								<key>previewVolume</key>
+								<integer>0</integer>
+								<key>quickloadLocked</key>
+								<integer>0</integer>
+								<key>quickloadVisible</key>
+								<integer>0</integer>
+								<key>quickloadsel2</key>
+								<string>1 1 -1 </string>
+								<key>quickloadtype</key>
+								<integer>2</integer>
+								<key>reWriteWAV</key>
+								<integer>1</integer>
+								<key>recentFileCount</key>
+								<integer>0</integer>
+								<key>recentFileNameNr0</key>
+								<string>@</string>
+								<key>recentFileNameNr1</key>
+								<string>@</string>
+								<key>recentFileNameNr10</key>
+								<string>@</string>
+								<key>recentFileNameNr11</key>
+								<string>@</string>
+								<key>recentFileNameNr12</key>
+								<string>@</string>
+								<key>recentFileNameNr13</key>
+								<string>@</string>
+								<key>recentFileNameNr14</key>
+								<string>@</string>
+								<key>recentFileNameNr15</key>
+								<string>@</string>
+								<key>recentFileNameNr16</key>
+								<string>@</string>
+								<key>recentFileNameNr17</key>
+								<string>@</string>
+								<key>recentFileNameNr18</key>
+								<string>@</string>
+								<key>recentFileNameNr19</key>
+								<string>@</string>
+								<key>recentFileNameNr2</key>
+								<string>@</string>
+								<key>recentFileNameNr3</key>
+								<string>@</string>
+								<key>recentFileNameNr4</key>
+								<string>@</string>
+								<key>recentFileNameNr5</key>
+								<string>@</string>
+								<key>recentFileNameNr6</key>
+								<string>@</string>
+								<key>recentFileNameNr7</key>
+								<string>@</string>
+								<key>recentFileNameNr8</key>
+								<string>@</string>
+								<key>recentFileNameNr9</key>
+								<string>@</string>
+								<key>refTone</key>
+								<integer>69</integer>
+								<key>refToneVolume</key>
+								<integer>2400</integer>
+								<key>sampleMemoryBarrier</key>
+								<integer>458752</integer>
+								<key>samplePopupHeight_A</key>
+								<integer>364</integer>
+								<key>samplePopupHeight_B</key>
+								<integer>600</integer>
+								<key>samplePopupHeight_C</key>
+								<integer>700</integer>
+								<key>samplePopupWidth_A</key>
+								<integer>619</integer>
+								<key>samplePopupWidth_B</key>
+								<integer>800</integer>
+								<key>samplePopupWidth_C</key>
+								<integer>1024</integer>
+								<key>sampleSearchFav</key>
+								<integer>1</integer>
+								<key>sampleSearchFiles1</key>
+								<integer>1</integer>
+								<key>sampleSearchFiles1Location</key>
+								<integer>0</integer>
+								<key>sampleSearchFiles2</key>
+								<integer>0</integer>
+								<key>sampleSearchFiles2Location</key>
+								<integer>3</integer>
+								<key>sampleSearchFiles3</key>
+								<integer>1</integer>
+								<key>sampleSearchFiles3Location</key>
+								<integer>4</integer>
+								<key>sampleSearchInteractive</key>
+								<integer>0</integer>
+								<key>sampleSearchManual</key>
+								<integer>0</integer>
+								<key>saveDlgAbsolutePaths</key>
+								<integer>1</integer>
+								<key>saveDlgMode</key>
+								<integer>1</integer>
+								<key>searchDBFolderCustom_0000</key>
+								<string>@v000d005Usersd006Sharedd017The Giant Library</string>
+								<key>searchDBFolderCustom_0001</key>
+								<string>@v000d005Usersd006Sharedd016Drum Lab Library</string>
+								<key>searchDBFolderCustom_0002</key>
+								<string>@v000d005Usersd006Sharedd023Kontakt Factory Library</string>
+								<key>searchDBFolderCustom_0003</key>
+								<string>@v000d005Usersd006Sharedd023Scarbee MM-Bass Library</string>
+								<key>searchDBFolderCustom_0004</key>
+								<string>@v000d005Usersd006Sharedd028Scarbee Vintage Keys Library</string>
+								<key>searchDBFolderCustom_0005</key>
+								<string>@v000d005Usersd006Sharedd023Session Strings Library</string>
+								<key>searchDBFolderCustom_0006</key>
+								<string>@v000d005Usersd006Sharedd022Vintage Organs Library</string>
+								<key>searchDBFolderCustom_0007</key>
+								<string>@v000d005Usersd006Sharedd019West Africa Library</string>
+								<key>searchDBFolderCustom_0008</key>
+								<string>@v000d005Usersd006Sharedd022Studio Drummer Library</string>
+								<key>searchDBFolderCustom_0009</key>
+								<string>@v000d005Usersd006Sharedd026Retro Machines Mk2 Library</string>
+								<key>searchDBFolderCustom_0010</key>
+								<string>@v000d005Usersd006Sharedd030Abbey Road 60s Drummer Library</string>
+								<key>searchDBFolderCustom_0011</key>
+								<string>@v000d005Usersd006Sharedd021Session Horns Library</string>
+								<key>searchDBFolderCustom_0012</key>
+								<string>@v000d005Usersd006Sharedd020The Maverick Library</string>
+								<key>searchDBFolderCustom_0013</key>
+								<string>@v000d005Usersd006Sharedd020The Grandeur Library</string>
+								<key>searchDBFolderCustom_0014</key>
+								<string>@v000d005Usersd006Sharedd021The Gentleman Library</string>
+								<key>searchScopeInitializedX</key>
+								<integer>1</integer>
+								<key>seekRemovableMedia</key>
+								<integer>0</integer>
+								<key>showBrowser</key>
+								<integer>1</integer>
+								<key>showCrossfades</key>
+								<integer>1</integer>
+								<key>showFilesBeforeFoldersInBrowser</key>
+								<integer>1</integer>
+								<key>showForeignFormatsInBrowser</key>
+								<integer>1</integer>
+								<key>showInfoBar</key>
+								<integer>1</integer>
+								<key>showMappingOnMasterKB</key>
+								<integer>1</integer>
+								<key>showNetworkDrivesInBrowser</key>
+								<integer>1</integer>
+								<key>showRemovableDrivesInBrowser</key>
+								<integer>0</integer>
+								<key>showReplaceMultiDialog</key>
+								<integer>1</integer>
+								<key>showSDII</key>
+								<integer>1</integer>
+								<key>showSampleNames</key>
+								<integer>1</integer>
+								<key>skipBypassedModules</key>
+								<integer>1</integer>
+								<key>sliceDlgCreateEnv</key>
+								<integer>1</integer>
+								<key>sliceDlgMappingBaseKey</key>
+								<integer>36</integer>
+								<key>sliceDlgMeasureDenom</key>
+								<integer>4</integer>
+								<key>sliceDlgMeasureNom</key>
+								<integer>4</integer>
+								<key>sliceDlgSaveMIDI</key>
+								<integer>1</integer>
+								<key>sliceDlgSetIntOnly</key>
+								<integer>0</integer>
+								<key>sliceDlgSetStartCtit</key>
+								<integer>0</integer>
+								<key>soloMode</key>
+								<integer>0</integer>
+								<key>startWithStructureView</key>
+								<integer>0</integer>
+								<key>syncToExtTempo</key>
+								<integer>0</integer>
+								<key>tabIdxInstProperties</key>
+								<integer>0</integer>
+								<key>totalGUIHeight</key>
+								<integer>640</integer>
+								<key>unwindAutomationIDs</key>
+								<integer>1</integer>
+								<key>uret-configuration</key>
+								<string>1 https://api.mixpanel.com/track/</string>
+								<key>uret-distinct-id</key>
+								<string>ec0030af-458a-4186-ab69-9f9fb73085bc</string>
+								<key>uret-machine-id</key>
+								<string>650d7165-79dd-49a2-bdc2-8dfd04b17651</string>
+								<key>useKBForMIDI</key>
+								<integer>0</integer>
+								<key>useLargeBrowserFont</key>
+								<integer>0</integer>
+								<key>useLog2Zoom</key>
+								<integer>0</integer>
+								<key>useMetaRootKey</key>
+								<integer>0</integer>
+								<key>useStdCC_120_123</key>
+								<integer>0</integer>
+								<key>useStdCC_7_10</key>
+								<integer>0</integer>
+								<key>waveEditorAppPath</key>
+								<string></string>
+								<key>widthFBColumn1</key>
+								<integer>93</integer>
+								<key>widthFBColumn2</key>
+								<integer>52</integer>
+								<key>widthFBColumn3</key>
+								<integer>97</integer>
+								<key>widthFBColumn4</key>
+								<integer>36</integer>
+								<key>widthGLColumn1</key>
+								<integer>113</integer>
+								<key>widthGLColumn2</key>
+								<integer>52</integer>
+								<key>widthMLColumn1</key>
+								<integer>100</integer>
+								<key>widthMLColumn2</key>
+								<integer>50</integer>
+								<key>widthMLColumn3</key>
+								<integer>40</integer>
+								<key>widthVLColumn1</key>
+								<integer>80</integer>
+								<key>widthVLColumn2</key>
+								<integer>40</integer>
+								<key>widthVLColumn3</key>
+								<integer>40</integer>
+								<key>widthVLColumn4</key>
+								<integer>40</integer>
+								<key>widthVLColumn5</key>
+								<integer>40</integer>
+								<key>widthVLColumn6</key>
+								<integer>40</integer>
+								<key>widthZLColumn1</key>
+								<integer>95</integer>
+								<key>widthZLColumn2</key>
+								<integer>36</integer>
+								<key>widthZLColumn3</key>
+								<integer>36</integer>
+								<key>widthZLColumn4</key>
+								<integer>36</integer>
+								<key>windowPos_X</key>
+								<integer>185</integer>
+								<key>windowPos_Y</key>
+								<integer>72</integer>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>MCXToProfile.9a0f76ec-ed3a-4b26-9a9f-e2566046ed96.alacarte.customsettings.076b3501-23db-4f6f-a0d9-1f1de9a289ee</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>076b3501-23db-4f6f-a0d9-1f1de9a289ee</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Included custom settings:
+com.native-instruments.Kontakt 5
+</string>
+	<key>PayloadDisplayName</key>
+	<string>MCXToProfile: com.native-instruments.Kontakt 5</string>
+	<key>PayloadIdentifier</key>
+	<string>Kontakt5</string>
+	<key>PayloadOrganization</key>
+	<string></string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>9a0f76ec-ed3a-4b26-9a9f-e2566046ed96</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

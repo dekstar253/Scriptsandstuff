@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.fabfilter.Pro-C.2</key>
+				<dict>
+					<key>Forced</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>CorrectDigiProductIds</key>
+								<integer>1</integer>
+								<key>CurrentVersion</key>
+								<string>2.05</string>
+								<key>EnableMIDIProgramChanges</key>
+								<integer>0</integer>
+								<key>GraphicsAcceleration</key>
+								<integer>1</integer>
+								<key>InterfaceHeight</key>
+								<integer>346</integer>
+								<key>InterfaceLayout</key>
+								<integer>0</integer>
+								<key>InterfacePanels</key>
+								<integer>1</integer>
+								<key>InterfaceWidth</key>
+								<integer>680</integer>
+								<key>LicenseText</key>
+								<string>
+-- COPY LICENSE KEY FROM HERE --
+Product: Pro-C 2;
+Licensee: "Greg Gordon";
+SRSmSPxKfOKODfPvRxAGhONsvzzyQNVPC13JGN4uPRWoiOufFPxX7e2AG
+uMiIRG8jeh2gRnGlwcq8LSeHJs4klioCvByA8E1ca4BrPP6NziIJD1xsN
+y9tm3jdhVpam1S3jqb7dKfXmvH9BXZcO6ixMeHQb4+olaGJTDKl44iu3s
+-- COPY UNTIL AND INCLUDING THIS --</string>
+								<key>PresetFolder</key>
+								<string>/Users/Guest/Library/Audio/Presets/FabFilter/FabFilter Pro-C 2/</string>
+								<key>RetinaEnabled</key>
+								<integer>1</integer>
+								<key>SavePresetItemEnabled</key>
+								<integer>0</integer>
+								<key>ShowComponentDisplays</key>
+								<integer>1</integer>
+								<key>showInteractiveHelp</key>
+								<integer>1</integer>
+								<key>showWelcomeHint</key>
+								<integer>0</integer>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>MCXToProfile.e8734890-93c8-4ec5-90da-b46e8bf8941f.alacarte.customsettings.186b3231-08b5-40b4-b341-ca2d5534153c</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>186b3231-08b5-40b4-b341-ca2d5534153c</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Included custom settings:
+com.fabfilter.Pro-C.2
+</string>
+	<key>PayloadDisplayName</key>
+	<string>MCXToProfile: com.fabfilter.Pro-C.2</string>
+	<key>PayloadIdentifier</key>
+	<string>FFProC2Prefs</string>
+	<key>PayloadOrganization</key>
+	<string></string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>e8734890-93c8-4ec5-90da-b46e8bf8941f</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

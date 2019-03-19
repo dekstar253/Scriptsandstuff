@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.native-instruments.FM8</key>
+				<dict>
+					<key>Forced</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>AB2 AudioBlockSize</key>
+								<integer>512</integer>
+								<key>AB2 AudioDevice</key>
+								<string>CoreAudio Built-in</string>
+								<key>AB2 AudioSampleRate</key>
+								<integer>44100</integer>
+								<key>AB2 InputChannel 0</key>
+								<integer>0</integer>
+								<key>AB2 InputChannel 1</key>
+								<integer>1</integer>
+								<key>AB2 MasterDelayComp</key>
+								<integer>0</integer>
+								<key>AB2 OutputChannel 0</key>
+								<integer>0</integer>
+								<key>AB2 OutputChannel 1</key>
+								<integer>1</integer>
+								<key>Browser ColumSet CheckSum 1</key>
+								<integer>0</integer>
+								<key>Browser ColumSet CheckSum 2</key>
+								<integer>89571</integer>
+								<key>Browser ColumSet CheckSum 3</key>
+								<integer>0</integer>
+								<key>Browser ColumSet CheckSum 4</key>
+								<integer>0</integer>
+								<key>Browser ColumSet CheckSum 5</key>
+								<integer>0</integer>
+								<key>Browser ColumSet CheckSum 6</key>
+								<integer>0</integer>
+								<key>Browser ColumSet Name 1</key>
+								<string></string>
+								<key>Browser ColumSet Name 2</key>
+								<string>24 0 152 1 -135 2 -100 3 -96 4 -100 5 -72 6 77 7 -96 8 -100 9 -56 10 -100 11 -32 12 -155 13 -100 14 -128 15 -100 16 -128 17 -100 18 -100 19 -100 20 -100 21 -100 22 -100 23 -100 </string>
+								<key>Browser ColumSet Name 3</key>
+								<string></string>
+								<key>Browser ColumSet Name 4</key>
+								<string></string>
+								<key>Browser ColumSet Name 5</key>
+								<string></string>
+								<key>Browser ColumSet Name 6</key>
+								<string></string>
+								<key>Browser ColumSet SortOrder 1</key>
+								<integer>0</integer>
+								<key>Browser ColumSet SortOrder 2</key>
+								<integer>2</integer>
+								<key>Browser ColumSet SortOrder 3</key>
+								<integer>0</integer>
+								<key>Browser ColumSet SortOrder 4</key>
+								<integer>0</integer>
+								<key>Browser ColumSet SortOrder 5</key>
+								<integer>0</integer>
+								<key>Browser ColumSet SortOrder 6</key>
+								<integer>0</integer>
+								<key>Browser Path 1</key>
+								<string></string>
+								<key>Browser Path 2</key>
+								<string></string>
+								<key>Browser Path 3</key>
+								<string></string>
+								<key>Browser PrgList</key>
+								<integer>0</integer>
+								<key>Browser Resizer</key>
+								<integer>222</integer>
+								<key>Browser View</key>
+								<integer>1</integer>
+								<key>BrowserLastFavorite</key>
+								<integer>0</integer>
+								<key>Controller1</key>
+								<integer>4</integer>
+								<key>Controller2</key>
+								<integer>11</integer>
+								<key>DisplayQueryNumKind</key>
+								<integer>1</integer>
+								<key>EditorVisible</key>
+								<integer>1</integer>
+								<key>InputVolume</key>
+								<integer>1117782016</integer>
+								<key>KeyboardVisible</key>
+								<integer>1</integer>
+								<key>LastPage</key>
+								<integer>42</integer>
+								<key>LastSoundName</key>
+								<string>NewSound</string>
+								<key>MasterTune</key>
+								<integer>0</integer>
+								<key>MasterVolume</key>
+								<integer>1117782016</integer>
+								<key>PrgchAvtice</key>
+								<integer>0</integer>
+								<key>RecentFile_0</key>
+								<string></string>
+								<key>RecentFile_1</key>
+								<string></string>
+								<key>RecentFile_2</key>
+								<string></string>
+								<key>RecentFile_3</key>
+								<string></string>
+								<key>RecentFile_4</key>
+								<string></string>
+								<key>RecentFile_5</key>
+								<string></string>
+								<key>RecentFile_6</key>
+								<string></string>
+								<key>RecentFile_7</key>
+								<string></string>
+								<key>RecentFile_8</key>
+								<string></string>
+								<key>RecentFile_9</key>
+								<string></string>
+								<key>SNDNumSoundPaths</key>
+								<integer>0</integer>
+								<key>SND_MidiWorkDir</key>
+								<string></string>
+								<key>SND_PageWorkDir</key>
+								<string>Macintosh HD:Users:Guest:Documents:Native Instruments:FM8:Controller Pages:</string>
+								<key>SND_PerformanceWorkDir</key>
+								<string></string>
+								<key>SND_SongWorkDir</key>
+								<string></string>
+								<key>SND_SoundWorkDir</key>
+								<string>Macintosh HD:Users:Guest:Documents:Native Instruments:FM8:Sounds:</string>
+								<key>UserContentPathsCreated</key>
+								<integer>1</integer>
+								<key>Window Height</key>
+								<integer>562</integer>
+								<key>Window Layer</key>
+								<integer>3</integer>
+								<key>Window Left</key>
+								<integer>100</integer>
+								<key>Window State</key>
+								<integer>1</integer>
+								<key>Window Top</key>
+								<integer>100</integer>
+								<key>Window Width</key>
+								<integer>948</integer>
+								<key>Window ZPos</key>
+								<integer>0</integer>
+								<key>firstNisStart</key>
+								<integer>1</integer>
+								<key>numVoices</key>
+								<integer>1090519040</integer>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>MCXToProfile.69ea3a32-ad17-4114-89e2-463b6eb36804.alacarte.customsettings.c8743553-72fc-4252-9af6-afc9f53611d2</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>c8743553-72fc-4252-9af6-afc9f53611d2</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Included custom settings:
+com.native-instruments.FM8
+</string>
+	<key>PayloadDisplayName</key>
+	<string>MCXToProfile: com.native-instruments.FM8</string>
+	<key>PayloadIdentifier</key>
+	<string>FM8</string>
+	<key>PayloadOrganization</key>
+	<string></string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>69ea3a32-ad17-4114-89e2-463b6eb36804</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

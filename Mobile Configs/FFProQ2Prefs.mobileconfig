@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.fabfilter.Pro-Q.2</key>
+				<dict>
+					<key>Forced</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>AutoAdjustDisplayRange</key>
+								<integer>1</integer>
+								<key>CorrectDigiProductIds</key>
+								<integer>1</integer>
+								<key>CurrentVersion</key>
+								<string>2.01</string>
+								<key>EnableMIDIProgramChanges</key>
+								<integer>0</integer>
+								<key>GainQInteraction</key>
+								<integer>0</integer>
+								<key>GraphicsAcceleration</key>
+								<integer>1</integer>
+								<key>InterfaceHeight</key>
+								<integer>465</integer>
+								<key>InterfaceLayout</key>
+								<integer>1</integer>
+								<key>InterfaceWidth</key>
+								<integer>720</integer>
+								<key>LicenseText</key>
+								<string>-- COPY LICENSE KEY FROM HERE --
+Product: One, Simplon, Pro-C, Volcano 2, Twin 2, Timeless 2, 
+   Pro-Q, Micro, Pro-L, Pro-G, Saturn, Pro-DS, Pro-MB, Pro-Q 2;
+Licensee: "Greg Gordon";
+d1eoldnYzOxVwGwa4VzzpMxG+VlagpkdJMrwV0/O/7AC3ZqmKb5433umV
+LNi72JSuh6Y/mLpnvTr3xC/eqME+ibF14HIGPermaNqBylSL2ygX8LtM3
+uLucw02dUFnM87cD0fG6WX2fsF/0fzHGJPRphyYKd5YStBdqiR/Q0dDz0
+-- COPY UNTIL AND INCLUDING THIS --</string>
+								<key>PianoRoll</key>
+								<integer>0</integer>
+								<key>PresetFolder</key>
+								<string>/Users/Guest/Library/Audio/Presets/FabFilter/FabFilter Pro-Q 2/</string>
+								<key>SavePresetItemEnabled</key>
+								<integer>0</integer>
+								<key>ShowComponentDisplays</key>
+								<integer>1</integer>
+								<key>ShowOutputLevelMeter</key>
+								<integer>1</integer>
+								<key>showInteractiveHelp</key>
+								<integer>1</integer>
+								<key>showWelcomeHint</key>
+								<integer>0</integer>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>MCXToProfile.31ee13b7-bec0-4fd5-8065-bedee3d04d63.alacarte.customsettings.eaac3286-7d35-401d-84bc-7a91731933d3</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>eaac3286-7d35-401d-84bc-7a91731933d3</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Included custom settings:
+com.fabfilter.Pro-Q.2
+</string>
+	<key>PayloadDisplayName</key>
+	<string>MCXToProfile: com.fabfilter.Pro-Q.2</string>
+	<key>PayloadIdentifier</key>
+	<string>FFProQ2Prefs</string>
+	<key>PayloadOrganization</key>
+	<string></string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>31ee13b7-bec0-4fd5-8065-bedee3d04d63</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

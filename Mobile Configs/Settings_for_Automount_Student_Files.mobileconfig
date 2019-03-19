@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AutoLaunchedApplicationDictionary-managed</key>
+			<array>
+				<dict>
+					<key>AuthenticateAsLoginUserShortName</key>
+					<false/>
+					<key>Hide</key>
+					<false/>
+					<key>URL</key>
+					<string>smb://guest:@leela.local/Student Files/</string>
+				</dict>
+			</array>
+			<key>PayloadDisplayName</key>
+			<string>Login Items:  Managed Items</string>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.mdm.unifi.local.c252b7f0-0bd1-0137-d5d1-000c29e0fdc5.alacarte.loginitems.400a02e0-0bd2-0137-d5d2-000c29e0fdc5.managed</string>
+			<key>PayloadType</key>
+			<string>com.apple.loginitems.managed</string>
+			<key>PayloadUUID</key>
+			<string>1b356fbd-d9de-776c-f199-c3817c4f115e</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>DisableLoginItemsSuppression</key>
+			<false/>
+			<key>PayloadDisplayName</key>
+			<string>Login Items:  Network Share Point</string>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.mdm.unifi.local.c252b7f0-0bd1-0137-d5d1-000c29e0fdc5.alacarte.loginitems.400a02e0-0bd2-0137-d5d2-000c29e0fdc5.loginwindow</string>
+			<key>PayloadType</key>
+			<string>loginwindow</string>
+			<key>PayloadUUID</key>
+			<string>a22e02af-508e-4376-86d5-8c9357fe44e4</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>Settings for Automount Student Files</string>
+	<key>PayloadEnabled</key>
+	<true/>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.mdm.unifi.local.c252b7f0-0bd1-0137-d5d1-000c29e0fdc5.alacarte</string>
+	<key>PayloadOrganization</key>
+	<string>Pyramind</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>c252b7f0-0bd1-0137-d5d1-000c29e0fdc5</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

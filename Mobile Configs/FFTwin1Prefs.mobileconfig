@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.fabfilter.Twin.2</key>
+				<dict>
+					<key>Forced</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>BundleLicenseText</key>
+								<string>-- COPY LICENSE KEY FROM HERE --
+Product: One, Simplon, Pro-C, Volcano 2, Twin 2, Timeless 2, 
+   Pro-Q, Micro, Pro-L, Pro-G, Saturn, Pro-DS, Pro-MB, Pro-Q 2;
+Licensee: "Greg Gordon";
+d1eoldnYzOxVwGwa4VzzpMxG+VlagpkdJMrwV0/O/7AC3ZqmKb5433umV
+LNi72JSuh6Y/mLpnvTr3xC/eqME+ibF14HIGPermaNqBylSL2ygX8LtM3
+uLucw02dUFnM87cD0fG6WX2fsF/0fzHGJPRphyYKd5YStBdqiR/Q0dDz0
+-- COPY UNTIL AND INCLUDING THIS --</string>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>MCXToProfile.fe060f2c-f750-42c8-ae94-526161a78cfb.alacarte.customsettings.648e902c-cf3a-4a49-986a-b4fe5f09c1a6</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>648e902c-cf3a-4a49-986a-b4fe5f09c1a6</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Included custom settings:
+com.fabfilter.Twin.2
+</string>
+	<key>PayloadDisplayName</key>
+	<string>MCXToProfile: com.fabfilter.Twin.2</string>
+	<key>PayloadIdentifier</key>
+	<string>FFTwin1Prefs</string>
+	<key>PayloadOrganization</key>
+	<string></string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>fe060f2c-f750-42c8-ae94-526161a78cfb</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

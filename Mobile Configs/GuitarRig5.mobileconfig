@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.native-instruments.Guitar Rig 5</key>
+				<dict>
+					<key>Forced</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>AB2 AudioBlockSize</key>
+								<integer>512</integer>
+								<key>AB2 AudioDevice</key>
+								<string>CoreAudio Built-in</string>
+								<key>AB2 AudioSampleRate</key>
+								<integer>44100</integer>
+								<key>AB2 InputChannel 0</key>
+								<integer>0</integer>
+								<key>AB2 InputChannel 1</key>
+								<integer>1</integer>
+								<key>AB2 MasterDelayComp</key>
+								<integer>0</integer>
+								<key>AB2 OutputChannel 0</key>
+								<integer>0</integer>
+								<key>AB2 OutputChannel 1</key>
+								<integer>1</integer>
+								<key>AudioSetupGood</key>
+								<integer>1</integer>
+								<key>ContentVersion Guitar Rig 5 Pro</key>
+								<string>2.0</string>
+								<key>ContentVersion Rammfire</key>
+								<string>2.0.0</string>
+								<key>ContentVersion Reflektor</key>
+								<string>2.0.0</string>
+								<key>ContentVersion Traktors 12</key>
+								<string>2.0</string>
+								<key>Guitar Rig 5 PresetManagerDirectory</key>
+								<string>Macintosh HD:Users:Guest:Documents:Native Instruments:Guitar Rig 5:Sounds:</string>
+								<key>ImportGR4Presets</key>
+								<integer>0</integer>
+								<key>LastChunkLoadSuccess</key>
+								<integer>1</integer>
+								<key>LoadPresetsStereo</key>
+								<integer>0</integer>
+								<key>PatchCode</key>
+								<integer>1</integer>
+								<key>PreferencesPage</key>
+								<integer>0</integer>
+								<key>RescanDatabase</key>
+								<integer>0</integer>
+								<key>RigKontrolCalOffset</key>
+								<integer>1023611503</integer>
+								<key>RigKontrolCalRange</key>
+								<integer>1064011039</integer>
+								<key>TapeDeckLoadFolder</key>
+								<string>Macintosh HD:Library:Application Support:Native Instruments:Guitar Rig 5:Content:Tapedeck:</string>
+								<key>WindowPosX</key>
+								<integer>100</integer>
+								<key>WindowPosY</key>
+								<integer>82</integer>
+								<key>lic</key>
+								<string>灲漠牡浭捲敶瑲ㅰ</string>
+								<key>version</key>
+								<integer>328194</integer>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>MCXToProfile.84445cd2-052d-42b3-a30d-d3e99bf1e973.alacarte.customsettings.d3421bd2-fe8c-493b-850e-a8fa2a206266</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>d3421bd2-fe8c-493b-850e-a8fa2a206266</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Included custom settings:
+com.native-instruments.Guitar Rig 5
+</string>
+	<key>PayloadDisplayName</key>
+	<string>MCXToProfile: com.native-instruments.Guitar Rig 5</string>
+	<key>PayloadIdentifier</key>
+	<string>GuitarRig5</string>
+	<key>PayloadOrganization</key>
+	<string></string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>84445cd2-052d-42b3-a30d-d3e99bf1e973</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

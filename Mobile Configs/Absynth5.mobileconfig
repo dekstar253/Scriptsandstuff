@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.native-instruments.Absynth 5</key>
+				<dict>
+					<key>Forced</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>AB2 AudioBlockSize</key>
+								<integer>512</integer>
+								<key>AB2 AudioDevice</key>
+								<string>CoreAudio Built-in</string>
+								<key>AB2 AudioSampleRate</key>
+								<integer>44100</integer>
+								<key>AB2 InputChannel 0</key>
+								<integer>0</integer>
+								<key>AB2 InputChannel 1</key>
+								<integer>1</integer>
+								<key>AB2 MasterDelayComp</key>
+								<integer>0</integer>
+								<key>AB2 OutputChannel 0</key>
+								<integer>0</integer>
+								<key>AB2 OutputChannel 1</key>
+								<integer>1</integer>
+								<key>Browser ColumSet CheckSum 1</key>
+								<integer>0</integer>
+								<key>Browser ColumSet CheckSum 2</key>
+								<integer>83677</integer>
+								<key>Browser ColumSet CheckSum 3</key>
+								<integer>0</integer>
+								<key>Browser ColumSet CheckSum 4</key>
+								<integer>0</integer>
+								<key>Browser ColumSet CheckSum 5</key>
+								<integer>0</integer>
+								<key>Browser ColumSet CheckSum 6</key>
+								<integer>0</integer>
+								<key>Browser ColumSet Name 1</key>
+								<string></string>
+								<key>Browser ColumSet Name 2</key>
+								<string>24 0 221 1 -135 2 -100 3 -96 4 -100 5 -72 6 -100 7 -96 8 -100 9 -155 10 -100 11 -128 12 -100 13 -128 14 -100 15 -100 16 -100 17 -100 18 -100 19 -100 20 -100 21 -100 22 -100 23 -100 </string>
+								<key>Browser ColumSet Name 3</key>
+								<string></string>
+								<key>Browser ColumSet Name 4</key>
+								<string></string>
+								<key>Browser ColumSet Name 5</key>
+								<string></string>
+								<key>Browser ColumSet Name 6</key>
+								<string></string>
+								<key>Browser ColumSet SortOrder 1</key>
+								<integer>0</integer>
+								<key>Browser ColumSet SortOrder 2</key>
+								<integer>2</integer>
+								<key>Browser ColumSet SortOrder 3</key>
+								<integer>0</integer>
+								<key>Browser ColumSet SortOrder 4</key>
+								<integer>0</integer>
+								<key>Browser ColumSet SortOrder 5</key>
+								<integer>0</integer>
+								<key>Browser ColumSet SortOrder 6</key>
+								<integer>0</integer>
+								<key>Browser Path 1</key>
+								<string></string>
+								<key>Browser Path 2</key>
+								<string></string>
+								<key>Browser Path 3</key>
+								<string></string>
+								<key>Browser PrgList</key>
+								<integer>0</integer>
+								<key>Browser Resizer</key>
+								<integer>222</integer>
+								<key>Browser View</key>
+								<integer>1</integer>
+								<key>BrowserLastFavorite</key>
+								<integer>0</integer>
+								<key>DisplayQueryNumKind</key>
+								<integer>1</integer>
+								<key>KeyboardVisible</key>
+								<integer>1</integer>
+								<key>LibrariesDir</key>
+								<string>Macintosh HD:Users:Guest:Documents:Native Instruments:Absynth 5:Libraries:</string>
+								<key>Mutate_EnableEnv</key>
+								<integer>0</integer>
+								<key>Mutate_EnableLFO</key>
+								<integer>1</integer>
+								<key>Mutate_EnableModuleA1</key>
+								<integer>1</integer>
+								<key>Mutate_EnableModuleA2</key>
+								<integer>1</integer>
+								<key>Mutate_EnableModuleA3</key>
+								<integer>1</integer>
+								<key>Mutate_EnableModuleB1</key>
+								<integer>1</integer>
+								<key>Mutate_EnableModuleB2</key>
+								<integer>1</integer>
+								<key>Mutate_EnableModuleB3</key>
+								<integer>1</integer>
+								<key>Mutate_EnableModuleEffect</key>
+								<integer>1</integer>
+								<key>Mutate_EnableModuleMast1</key>
+								<integer>1</integer>
+								<key>Mutate_EnableModuleMast2</key>
+								<integer>1</integer>
+								<key>Mutate_EnableOscilA</key>
+								<integer>1</integer>
+								<key>Mutate_EnableOscilB</key>
+								<integer>1</integer>
+								<key>Mutate_EnableOscilC</key>
+								<integer>1</integer>
+								<key>Mutate_mutateAmount</key>
+								<integer>1048576000</integer>
+								<key>Mutate_randomizeAmount</key>
+								<integer>1048576000</integer>
+								<key>Programlistenabled</key>
+								<integer>0</integer>
+								<key>RecentFile_0</key>
+								<string></string>
+								<key>RecentFile_1</key>
+								<string></string>
+								<key>RecentFile_2</key>
+								<string></string>
+								<key>RecentFile_3</key>
+								<string></string>
+								<key>RecentFile_4</key>
+								<string></string>
+								<key>RecentFile_5</key>
+								<string></string>
+								<key>RecentFile_6</key>
+								<string></string>
+								<key>RecentFile_7</key>
+								<string></string>
+								<key>RecentFile_8</key>
+								<string></string>
+								<key>RecentFile_9</key>
+								<string></string>
+								<key>SNDNumSoundPaths</key>
+								<integer>0</integer>
+								<key>SND_MidiWorkDir</key>
+								<string></string>
+								<key>SND_PageWorkDir</key>
+								<string>Macintosh HD:Users:Guest:Documents:Native Instruments:Absynth 5:Controller Pages:</string>
+								<key>SND_PerformanceWorkDir</key>
+								<string></string>
+								<key>SND_SongWorkDir</key>
+								<string></string>
+								<key>SND_SoundWorkDir</key>
+								<string>Macintosh HD:Users:Guest:Documents:Native Instruments:Absynth 5:Sounds:</string>
+								<key>UserContentPathsCreated</key>
+								<integer>1</integer>
+								<key>autoBalance</key>
+								<integer>0</integer>
+								<key>firstNisStart</key>
+								<integer>1</integer>
+								<key>surroundChan0</key>
+								<integer>0</integer>
+								<key>surroundChan1</key>
+								<integer>1</integer>
+								<key>surroundChan2</key>
+								<integer>2</integer>
+								<key>surroundChan3</key>
+								<integer>3</integer>
+								<key>surroundChan4</key>
+								<integer>4</integer>
+								<key>surroundChan5</key>
+								<integer>5</integer>
+								<key>surroundChan6</key>
+								<integer>6</integer>
+								<key>surroundChan7</key>
+								<integer>7</integer>
+								<key>surroundLfeChan</key>
+								<integer>2</integer>
+								<key>surroundLfeFreq</key>
+								<integer>1117782016</integer>
+								<key>surroundLfeGain</key>
+								<integer>-1052770304</integer>
+								<key>surroundLfeOn</key>
+								<integer>0</integer>
+								<key>surroundMode</key>
+								<integer>1</integer>
+								<key>window_main_left</key>
+								<integer>5</integer>
+								<key>window_main_top</key>
+								<integer>26</integer>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>MCXToProfile.94b32586-eccb-472a-919c-a0986901ed8a.alacarte.customsettings.d44dbc39-d8f6-45ad-8ecb-f4625e5ba82b</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>d44dbc39-d8f6-45ad-8ecb-f4625e5ba82b</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Included custom settings:
+com.native-instruments.Absynth 5
+</string>
+	<key>PayloadDisplayName</key>
+	<string>MCXToProfile: com.native-instruments.Absynth 5</string>
+	<key>PayloadIdentifier</key>
+	<string>Absynth5</string>
+	<key>PayloadOrganization</key>
+	<string></string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>94b32586-eccb-472a-919c-a0986901ed8a</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
