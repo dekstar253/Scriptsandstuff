@@ -1,3 +1,3 @@
 # Scriptsandstuff
 
-Stuff I've collected over the years that have helped me along the way
+Stuff I've collected/stole over the years that have helped me along the way
